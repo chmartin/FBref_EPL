@@ -1,0 +1,45 @@
+,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
+0,31.0,wal WAL,Nottingham Forest,11,43,Mark Crossley,.746,90,GK,"3,780",0,42,25,22,9,1.02,42,169,13
+1,38.1,eng ENG,Liverpool,11,37,David James,.782,90,GK,"3,780",0,42,23,21,10,0.88,42,170,16
+2,40.5,eng ENG,Leeds United,13,38,John Lukic,.808,90,GK,"3,780",0,42,33,20,9,0.90,42,198,17
+3,31.0,"cs TCH,cz CZE",West Ham United,11,48,Luděk Mikloško,.750,90,GK,"3,780",0,42,32,13,18,1.14,42,192,13
+4,34.1,wal WAL,Everton,17,48,Neville Southall,.786,90,GK,"3,690",0,41,35,11,13,1.17,41,224,14
+5,26.8,eng ENG,Tottenham Hotspur,14,57,Ian Walker,.674,90,GK,"3,690",0,41,22,15,12,1.39,41,175,11
+6,41.0,eng ENG,Blackburn Rovers,7,33,Tim Flowers,.766,89,GK,"3,476",0,39,27,25,6,0.85,39,141,16
+7,5.4,ca CAN,Ipswich Town,5,81,Craig Forrest,.668,90,GK,"3,330",0,37,26,6,26,2.19,37,244,2
+8,34.2,cz CZE,Newcastle United,12,40,Pavel Srníček,.752,87,GK,"3,307",0,38,26,17,8,1.09,38,161,13
+9,36.1,eng ENG,Crystal Palace,10,40,Nigel Martyn,.766,89,GK,"3,294",1,37,27,9,17,1.09,36,171,13
+10,11.1,eng ENG,Leicester City,10,67,Kevin Poole,.672,90,GK,"3,240",0,36,31,5,21,1.86,36,204,4
+11,23.5,eng ENG,Sheffield Wednesday,9,48,Kevin Pressman,.678,89,GK,"3,017",0,34,26,11,14,1.43,34,149,8
+12,33.3,eng ENG,Coventry City,10,50,Steve Ogrizovic,.702,90,GK,"2,970",0,33,36,10,13,1.52,33,168,11
+13,65.6,dk DEN,Manchester United,8,15,Peter Schmeichel,.866,90,GK,"2,880",0,32,30,20,4,0.47,32,112,21
+14,35.5,eng ENG,Arsenal,10,31,David Seaman,.780,90,GK,"2,790",0,31,30,10,11,1.00,31,141,11
+15,29.0,nl NED,Wimbledon,8,47,Hans Segers,.693,90,GK,"2,790",0,31,32,12,11,1.52,31,153,9
+16,35.5,"ru RUS,su URS",Chelsea,11,38,Dmitri Kharine,.771,90,GK,"2,790",0,31,25,10,10,1.23,31,166,11
+17,25.8,wal WAL,Queens Park Rangers,3,40,Tony Roberts,.718,90,GK,"2,790",0,31,24,14,11,1.29,31,142,8
+18,20.0,zw ZIM,Southampton,13,47,Bruce Grobbelaar,.717,90,GK,"2,695",0,30,36,9,8,1.57,30,166,6
+19,20.0,au AUS,Aston Villa,12,44,Mark Bosnich,.694,89,GK,"2,664",0,30,22,6,12,1.49,30,144,6
+20,27.3,eng ENG,Manchester City,6,29,Tony Coton,.741,90,GK,"1,980",0,22,33,8,8,1.32,22,112,6
+21,33.3,sco SCO,Norwich City,7,18,Bryan Gunn,.791,90,GK,"1,890",0,21,30,8,5,0.86,21,86,7
+22,15.0,eng ENG,Norwich City,6,33,Andy Marshall,.683,90,GK,"1,800",0,20,19,2,12,1.65,20,104,3
+23,25.0,wal WAL,Manchester City,6,27,Andy Dibble,.710,87,GK,"1,388",0,16,29,3,7,1.75,16,93,4
+24,25.0,eng ENG,Southampton,5,16,Dave Beasant,.714,90,GK,"1,175",1,13,35,3,4,1.23,12,56,3
+25,41.7,eng ENG,Aston Villa,3,12,Nigel Spink,.774,86,GK,"1,116",1,13,35,5,4,0.97,12,53,5
+26,18.2,nl NED,Queens Park Rangers,6,19,Sieb Dijkstra,.635,90,GK,990,0,11,27,3,5,1.73,11,52,2
+27,27.3,sco SCO,Wimbledon,3,18,Neil Sullivan,.690,90,GK,990,0,11,24,3,5,1.64,11,58,3
+28,18.2,eng ENG,Arsenal,2,18,Vince Bartram,.633,90,GK,990,0,11,25,3,6,1.64,11,49,2
+29,18.2,,Chelsea,4,17,Kevin Hitchcock,.646,90,GK,990,0,11,31,3,4,1.55,11,48,2
+30,30.0,eng ENG,Manchester United,2,13,Gary Walsh,.729,90,GK,900,0,10,26,6,2,1.30,10,48,3
+31,50.0,eng ENG,Sheffield Wednesday,3,9,Chris Woods,.804,81,GK,733,1,9,34,2,3,1.11,8,46,4
+32,28.6,sco SCO,Coventry City,3,10,Jonathan Gould,.722,90,GK,630,0,7,26,1,3,1.43,7,36,2
+33,0.0,eng ENG,Leicester City,1,13,Gavin Ward,.683,90,GK,540,0,6,24,1,4,2.17,6,41,0
+34,16.7,wal WAL,Crystal Palace,2,9,Rhys Wilmot,.640,81,GK,486,0,6,32,2,2,1.67,6,25,1
+35,25.0,eng ENG,Newcastle United,0,7,Mike Hooper,.708,71,GK,423,2,6,30,3,2,1.49,4,24,1
+36,0.0,,Manchester City,1,8,John Burridge,.579,82,GK,412,1,5,42,1,2,1.75,4,19,0
+37,0.0,eng ENG,Blackburn Rovers,1,6,Bobby Mimms,.750,79,GK,314,1,4,30,2,1,1.72,3,24,0
+38,33.3,eng ENG,Ipswich Town,0,6,Richard Wright,.739,90,GK,270,0,3,16,1,2,2.00,3,23,1
+39,0.0,,Ipswich Town,1,6,Clive Baker,.667,90,GK,180,0,2,35,0,1,3.00,2,18,0
+40,0.0,au AUS,Coventry City,1,2,John Filan,.778,90,GK,180,0,2,24,1,0,1.00,2,9,0
+41,0.0,au AUS,Everton,0,3,Jason Kearton,.625,90,GK,90,0,1,25,0,1,3.00,1,8,0
+42,0.0,eng ENG,Norwich City,0,2,Simon Tracey,.500,90,GK,90,0,1,26,0,1,2.00,1,4,0
+43,0.0,no NOR,Tottenham Hotspur,0,1,Erik Thorstvedt,.833,90,GK,90,0,1,31,1,0,1.00,1,6,0

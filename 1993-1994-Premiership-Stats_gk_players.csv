@@ -1,0 +1,46 @@
+,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
+0,23.8,wal WAL,Everton,8,63,Neville Southall,.721,90,GK,"3,780",0,42,34,12,22,1.50,42,226,10
+1,19.0,"cs TCH,cz CZE",West Ham United,13,58,Luděk Mikloško,.699,90,GK,"3,780",0,42,31,13,16,1.38,42,193,8
+2,31.7,eng ENG,Blackburn Rovers,6,46,Tim Flowers,.757,90,GK,"3,690",0,41,26,21,14,1.12,41,189,13
+3,24.4,sco SCO,Norwich City,15,59,Bryan Gunn,.702,90,GK,"3,685",0,41,29,12,13,1.44,41,198,10
+4,26.8,nl NED,Wimbledon,11,53,Hans Segers,.675,89,GK,"3,647",0,41,31,17,13,1.31,41,163,11
+5,27.5,"ru RUS,su URS",Chelsea,12,48,Dmitri Kharine,.736,90,GK,"3,600",0,40,24,13,15,1.20,40,182,11
+6,37.5,dk DEN,Manchester United,10,37,Peter Schmeichel,.736,90,GK,"3,600",0,40,29,26,4,0.92,40,140,15
+7,51.3,eng ENG,Arsenal,16,25,David Seaman,.811,89,GK,"3,459",0,39,29,18,5,0.65,39,132,20
+8,36.4,eng ENG,Coventry City,10,32,Steve Ogrizovic,.804,90,GK,"2,970",0,33,35,10,13,0.97,33,163,12
+9,25.0,eng ENG,Sheffield Wednesday,12,37,Kevin Pressman,.750,90,GK,"2,880",0,32,25,15,5,1.16,32,148,8
+10,25.0,no NOR,Tottenham Hotspur,9,39,Erik Thorstvedt,.685,89,GK,"2,854",0,32,30,9,13,1.23,32,124,8
+11,35.5,eng ENG,Manchester City,12,37,Tony Coton,.748,90,GK,"2,790",0,31,32,5,14,1.19,31,147,11
+12,31.0,ie IRL,Sheffield United,12,42,Alan Kelly Jr.,.659,89,GK,"2,683",1,30,24,5,5,1.41,29,123,9
+13,39.3,au AUS,Aston Villa,10,28,Mark Bosnich,.741,89,GK,"2,584",1,29,21,8,9,0.98,28,108,11
+14,24.1,zw ZIM,Liverpool,8,39,Bruce Grobbelaar,.680,89,GK,"2,576",0,29,35,12,9,1.36,29,122,7
+15,14.3,eng ENG,Swindon Town,10,68,Fraser Digby,.605,88,GK,"2,471",0,28,26,2,15,2.48,28,172,4
+16,37.0,ca CAN,Ipswich Town,13,32,Craig Forrest,.792,90,GK,"2,430",0,27,25,5,9,1.19,27,154,10
+17,30.8,"cs TCH,cz CZE",Queens Park Rangers,8,34,Jan Stejskal,.709,90,GK,"2,340",0,26,31,11,7,1.31,26,117,8
+18,16.0,eng ENG,Southampton,5,37,Dave Beasant,.697,90,GK,"2,250",0,25,34,8,12,1.48,25,122,4
+19,40.9,,Leeds United,9,20,Mark Beeney,.796,90,GK,"1,980",0,22,25,10,3,0.91,22,98,9
+20,38.1,cz CZE,Newcastle United,5,17,Pavel Srníček,.833,89,GK,"1,864",0,21,25,12,4,0.82,21,102,8
+21,45.0,eng ENG,Leeds United,7,19,John Lukic,.784,90,GK,"1,800",0,20,32,8,5,0.95,20,88,9
+22,36.8,eng ENG,Newcastle United,2,19,Mike Hooper,.779,90,GK,"1,710",0,19,29,11,6,1.00,19,86,7
+23,10.5,eng ENG,Oldham Athletic,5,31,Jon Hallworth,.677,90,GK,"1,710",0,19,27,5,8,1.63,19,96,2
+24,12.5,wal WAL,Queens Park Rangers,4,27,Tony Roberts,.658,90,GK,"1,440",0,16,23,5,7,1.69,16,79,2
+25,20.0,eng ENG,Oldham Athletic,7,25,Paul Gerrard,.699,90,GK,"1,440",1,16,20,1,8,1.56,15,83,3
+26,26.7,,Ipswich Town,3,26,Clive Baker,.720,90,GK,"1,350",0,15,34,4,8,1.73,15,93,4
+27,28.6,eng ENG,Aston Villa,2,22,Nigel Spink,.672,84,GK,"1,266",1,15,34,7,6,1.56,14,67,4
+28,30.8,eng ENG,Sheffield United,6,18,Simon Tracey,.739,84,GK,"1,257",2,15,25,3,4,1.29,13,69,4
+29,15.4,eng ENG,Liverpool,1,16,David James,.768,84,GK,"1,174",1,14,22,5,7,1.23,13,69,2
+30,38.5,eng ENG,Blackburn Rovers,5,13,Bobby Mimms,.797,90,GK,"1,170",0,13,29,6,2,1.00,13,64,5
+31,0.0,,Swindon Town,5,20,Elvis Hammond,.649,83,,"1,084",2,13,,3,5,1.66,11,57,0
+32,18.2,wal WAL,Manchester City,6,12,Andy Dibble,.778,90,GK,990,0,11,28,4,1,1.09,11,54,2
+33,10.0,eng ENG,Tottenham Hotspur,3,20,Ian Walker,.583,84,GK,926,1,11,21,2,6,1.94,10,48,1
+34,20.0,eng ENG,Sheffield Wednesday,4,17,Chris Woods,.630,90,GK,900,0,10,33,1,5,1.70,10,46,2
+35,22.2,sco SCO,Coventry City,4,13,Jonathan Gould,.629,90,GK,810,0,9,25,4,1,1.44,9,35,2
+36,25.0,eng ENG,Manchester United,2,10,Gary Walsh,.787,90,GK,810,1,9,25,5,3,1.11,8,47,2
+37,40.0,eng ENG,Southampton,0,6,Ian Andrews,.727,90,GK,450,0,5,28,2,3,1.20,5,22,2
+38,33.3,eng ENG,Arsenal,1,3,Alan Miller,.813,80,GK,321,1,4,23,0,2,0.84,3,16,1
+39,0.0,nir NIR,Newcastle United,1,5,Tommy Wright,.583,81,GK,244,1,3,29,1,1,1.84,2,12,0
+40,0.0,,Chelsea,0,5,Kevin Hitchcock,.500,90,GK,180,0,2,30,0,2,2.50,2,10,0
+41,50.0,eng ENG,Oldham Athletic,0,3,Lance Key,.625,90,GK,180,0,2,25,1,1,1.50,2,8,1
+42,0.0,eng ENG,Swindon Town,0,5,Jon Sheffield,.500,73,GK,145,1,2,24,0,1,3.10,1,10,0
+43,100.0,sco SCO,Wimbledon,0,0,Neil Sullivan,1.000,67,GK,133,1,2,23,1,0,0.00,1,6,1
+44,0.0,sco SCO,Norwich City,2,2,Scott Howie,.667,48,GK,95,1,2,21,0,0,1.89,1,6,0

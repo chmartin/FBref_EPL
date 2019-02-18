@@ -1,0 +1,46 @@
+,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
+0,21.1,eng ENG,West Ham United,10,50,Robert Green,.735,90,GK,"3,420",0,38,27,13,15,1.32,38,189,8
+1,21.1,us USA,Blackburn Rovers,13,48,Brad Friedel,.761,90,GK,"3,420",0,38,36,15,10,1.26,38,201,8
+2,21.1,us USA,Reading,6,66,Marcus Hahnemann,.740,90,GK,"3,420",0,38,35,10,22,1.74,38,254,8
+3,47.4,es ESP,Liverpool,13,28,Pepe Reina,.797,90,GK,"3,420",0,38,24,21,4,0.74,38,138,18
+4,32.4,eng ENG,Wigan Athletic,10,49,Chris Kirkland,.746,90,GK,"3,330",0,37,26,10,17,1.32,37,193,12
+5,38.9,us USA,Everton,8,30,Tim Howard,.822,90,GK,"3,240",0,36,28,19,9,0.83,36,169,14
+6,45.7,eng ENG,Portsmouth,9,36,David James,.813,90,GK,"3,150",0,35,36,16,10,1.03,35,192,16
+7,25.7,eng ENG,Aston Villa,10,46,Scott Carson,.705,89,GK,"3,126",0,35,21,16,8,1.32,35,156,9
+8,8.8,nir NIR,Birmingham City,10,54,Maik Taylor,.778,90,GK,"3,060",0,34,35,8,16,1.59,34,243,3
+9,17.6,sco SCO,Sunderland,5,55,Craig Gordon,.663,90,GK,"3,060",0,34,24,10,19,1.62,34,163,6
+10,23.5,au AUS,Middlesbrough,11,47,Mark Schwarzer,.704,90,GK,"3,060",0,34,34,9,14,1.38,34,159,8
+11,37.9,es ESP,Arsenal,10,24,Manuel Almunia,.798,90,GK,"2,610",0,29,30,17,2,0.83,29,119,11
+12,51.7,nl NED,Manchester United,5,18,Edwin van der Sar,.841,88,GK,"2,565",0,29,36,19,4,0.63,29,113,15
+13,28.6,fi FIN,Bolton Wanderers,7,42,Jussi Jääskeläinen,.718,90,GK,"2,520",0,28,32,6,15,1.50,28,149,8
+14,26.9,eng ENG,Manchester City,8,34,Joe Hart,.786,90,GK,"2,340",0,26,20,9,9,1.31,26,159,7
+15,57.7,cz CZE,Chelsea,8,17,Petr Čech,.833,89,GK,"2,313",0,26,25,15,3,0.66,26,102,15
+16,20.0,eng ENG,Tottenham Hotspur,7,47,Paul Robinson,.654,90,GK,"2,250",0,25,27,8,10,1.88,25,136,5
+17,9.1,fi FIN,Fulham,9,39,Antti Niemi,.723,90,GK,"1,980",0,22,35,2,11,1.77,22,141,2
+18,31.6,eng ENG,Newcastle United,7,28,Steve Harper,.759,85,GK,"1,792",2,21,32,7,6,1.41,19,116,6
+19,10.5,ie IRL,Newcastle United,3,37,Shay Given,.736,86,GK,"1,628",0,19,31,4,11,2.05,19,140,2
+20,11.1,eng ENG,Derby County,4,41,Stephen Bywater,.647,90,GK,"1,620",0,18,26,1,13,2.28,18,116,2
+21,7.1,nir NIR,Derby County,3,38,Roy Carroll,.667,90,GK,"1,260",0,14,29,0,11,2.71,14,114,1
+22,30.8,cz CZE,Tottenham Hotspur,6,14,Radek Černý,.800,90,GK,"1,170",0,13,33,3,4,1.08,13,70,4
+23,38.5,us USA,Fulham,3,16,Kasey Keller,.746,90,GK,"1,170",0,13,37,5,5,1.23,13,63,5
+24,40.0,om OMA,Bolton Wanderers,3,12,Ali Al-Habsi,.793,90,GK,900,0,10,25,3,4,1.20,10,58,4
+25,60.0,it ITA,Chelsea,2,7,Carlo Cudicini,.800,90,GK,900,0,10,33,8,0,0.70,10,35,6
+26,62.5,pl POL,Manchester United,1,4,Tomasz Kuszczak,.879,85,GK,765,1,9,25,7,1,0.47,8,33,5
+27,57.1,dk DEN,Manchester City,1,5,Kasper Schmeichel,.839,90,GK,630,0,7,20,4,2,0.71,7,31,4
+28,33.3,de GER,Arsenal,1,5,Jens Lehmann,.808,80,GK,562,1,7,37,5,1,0.80,6,26,2
+29,0.0,wal WAL,Derby County,1,10,Lewis Price,.697,90,GK,540,0,6,23,0,5,1.67,6,33,0
+30,0.0,se SWE,Manchester City,1,14,Andreas Isaksson,.548,90,GK,450,0,5,25,2,2,2.80,5,31,0
+31,0.0,eng ENG,Aston Villa,2,5,Stuart Taylor,.643,74,GK,294,1,4,26,0,2,1.53,3,14,0
+32,0.0,eng ENG,Portsmouth,0,4,Jamie Ashdown,.692,90,GK,270,0,3,26,0,3,1.33,3,13,0
+33,33.3,wal WAL,Sunderland,1,3,Darren Ward,.786,90,GK,270,0,3,33,1,1,1.00,3,14,1
+34,0.0,eng ENG,Middlesbrough,1,3,Ross Turnbull,.857,90,GK,270,0,3,22,1,1,1.00,3,21,0
+35,0.0,tt TRI,Fulham,0,5,Tony Warner,.808,90,GK,270,0,3,33,1,2,1.67,3,26,0
+36,0.0,ie IRL,Birmingham City,1,6,Colin Doyle,.625,90,GK,270,0,3,22,0,2,2.00,3,16,0
+37,66.7,pl POL,Arsenal,0,2,Łukasz Fabiański,.800,83,GK,248,0,3,22,2,0,0.73,3,10,2
+38,0.0,pt POR,Chelsea,0,2,Henrique Hilário,.600,69,GK,207,1,3,31,2,0,0.87,2,5,0
+39,0.0,de GER,Everton,0,3,Stefan Wessels,.571,90,GK,180,0,2,28,0,2,1.50,2,7,0
+40,0.0,gh GHA,Birmingham City,0,2,Richard Kingson,.714,90,GK,90,0,1,29,0,1,2.00,1,7,0
+41,0.0,hu HUN,Sunderland,0,1,Márton Fülöp,.800,90,GK,90,0,1,24,0,1,1.00,1,5,0
+42,0.0,eng ENG,Wigan Athletic,0,2,Mike Pollitt,.500,90,GK,90,0,1,35,0,1,2.00,1,4,0
+43,100.0,eng ENG,Manchester United,0,0,Ben Foster,1.000,90,GK,90,0,1,24,1,0,0.00,1,4,1
+44,0.0,au AUS,Middlesbrough,0,3,Brad Jones,.250,90,GK,90,0,1,25,0,1,3.00,1,4,0

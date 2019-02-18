@@ -1,0 +1,43 @@
+,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
+0,42.1,eng ENG,Arsenal,12,32,David Seaman,.796,90,GK,"3,420",0,38,31,17,9,0.84,38,157,16
+1,39.5,wal WAL,Everton,10,44,Neville Southall,.740,90,GK,"3,420",0,38,36,17,11,1.16,38,169,15
+2,21.1,wal WAL,Nottingham Forest,13,54,Mark Crossley,.688,90,GK,"3,420",0,38,26,15,10,1.42,38,173,8
+3,21.1,de GER,Manchester City,11,58,Eike Immel,.714,90,GK,"3,420",0,38,34,9,18,1.53,38,203,8
+4,28.9,eng ENG,Tottenham Hotspur,13,38,Ian Walker,.768,90,GK,"3,420",0,38,23,16,9,1.00,38,164,11
+5,42.1,eng ENG,Liverpool,11,34,David James,.795,90,GK,"3,420",0,38,24,20,7,0.89,38,166,16
+6,34.2,au AUS,Aston Villa,8,34,Mark Bosnich,.776,89,GK,"3,386",0,38,23,19,11,0.90,38,152,13
+7,27.0,eng ENG,Blackburn Rovers,6,46,Tim Flowers,.707,90,GK,"3,318",0,37,28,18,13,1.25,37,157,10
+8,25.0,eng ENG,Southampton,11,49,Dave Beasant,.729,90,GK,"3,240",0,36,36,8,17,1.36,36,181,9
+9,30.6,"cs TCH,cz CZE",West Ham United,9,45,Luděk Mikloško,.702,90,GK,"3,222",0,36,33,14,13,1.26,36,151,11
+10,50.0,dk DEN,Manchester United,5,29,Peter Schmeichel,.794,88,GK,"3,175",0,36,31,25,5,0.82,36,141,18
+11,12.1,us USA,Queens Park Rangers,6,49,Juergen Sommer,.737,90,GK,"2,970",0,33,26,8,19,1.48,33,186,4
+12,12.9,ie IRL,Bolton Wanderers,4,60,Keith Branagan,.670,90,GK,"2,790",0,31,29,6,21,1.94,31,182,4
+13,29.0,eng ENG,Middlesbrough,7,43,Gary Walsh,.715,90,GK,"2,790",0,31,27,10,14,1.39,31,151,9
+14,13.3,eng ENG,Sheffield Wednesday,9,48,Kevin Pressman,.702,90,GK,"2,688",0,30,27,8,13,1.61,30,161,4
+15,25.0,eng ENG,Leeds United,6,42,John Lukic,.712,90,GK,"2,516",0,28,34,9,13,1.50,28,146,7
+16,38.5,"ru RUS,su URS",Chelsea,10,29,Dmitri Kharine,.766,90,GK,"2,340",0,26,26,9,7,1.12,26,124,10
+17,32.0,eng ENG,Coventry City,10,32,Steve Ogrizovic,.761,90,GK,"2,250",0,25,37,7,8,1.28,25,134,8
+18,39.1,tt TRI,Newcastle United,5,19,Shaka Hislop,.782,90,GK,"2,070",0,23,26,16,2,0.83,23,87,9
+19,16.7,eng ENG,Wimbledon,6,32,Paul Heald,.689,88,GK,"1,590",0,18,26,3,9,1.81,18,103,3
+20,18.8,sco SCO,Wimbledon,5,26,Neil Sullivan,.705,87,GK,"1,398",0,16,25,5,6,1.67,16,88,3
+21,28.6,cz CZE,Newcastle United,1,18,Pavel Srníček,.753,83,GK,"1,250",1,15,27,8,6,1.30,14,73,4
+22,15.4,au AUS,Coventry City,4,28,John Filan,.606,90,GK,"1,170",0,13,25,1,8,2.15,13,71,2
+23,16.7,,Chelsea,4,15,Kevin Hitchcock,.688,90,GK,"1,080",0,12,32,3,5,1.25,12,48,2
+24,30.0,,Leeds United,1,14,Mark Beeney,.696,88,GK,878,0,10,27,3,5,1.44,10,46,3
+25,25.0,eng ENG,Sheffield Wednesday,1,11,Chris Woods,.738,90,GK,720,0,8,35,2,5,1.37,8,42,2
+26,14.3,eng ENG,Middlesbrough,3,7,Alan Miller,.806,90,GK,630,0,7,25,1,3,1.00,7,36,1
+27,0.0,eng ENG,Bolton Wanderers,1,7,Gavin Ward,.731,90,GK,450,0,5,25,1,3,1.40,5,26,0
+28,20.0,wal WAL,Queens Park Rangers,0,8,Tony Roberts,.636,90,GK,450,0,5,25,1,4,1.60,5,22,1
+29,0.0,nl NED,Wimbledon,0,5,Hans Segers,.643,78,GK,312,1,4,33,2,1,1.44,3,14,0
+30,0.0,eng ENG,Manchester United,2,6,Kevin Pilkington,.538,82,GK,245,1,3,21,0,1,2.20,2,13,0
+31,0.0,nir NIR,Bolton Wanderers,0,4,Aidan Davison,.500,90,GK,180,0,2,27,1,1,2.00,2,8,0
+32,50.0,zw ZIM,Southampton,0,3,Bruce Grobbelaar,.727,90,GK,180,0,2,37,1,1,1.50,2,11,1
+33,0.0,eng ENG,Blackburn Rovers,1,1,Bobby Mimms,.750,51,GK,102,1,2,31,0,0,0.88,1,4,0
+34,0.0,eng ENG,West Ham United,0,3,Les Sealey,.625,90,GK,90,0,1,37,0,1,3.00,1,8,0
+35,0.0,eng ENG,West Ham United,0,2,Neil Finn,.667,90,GK,90,0,1,16,0,1,2.00,1,6,0
+36,0.0,eng ENG,Wimbledon,0,4,Simon Tracey,.636,90,GK,90,0,1,27,0,1,4.00,1,11,0
+37,,eng ENG,Aston Villa,0,1,Nigel Spink,.000,17,GK,34,2,2,36,0,0,2.65,0,1,0
+38,,eng ENG,West Ham United,0,2,Julian Dicks,.667,32,DF,32,1,1,26,0,0,5.63,0,6,0
+39,,wal WAL,Wimbledon,0,3,Vinnie Jones,.500,30,MF,30,1,1,30,0,0,9.00,0,6,0
+40,,za RSA,Leeds United,0,1,Lucas Radebe,.800,13,"GK,DF",26,2,2,26,0,1,3.46,0,5,0
+41,,sco SCO,Sheffield Wednesday,0,2,Steve Nicol,.600,12,DF,12,1,1,33,0,0,15.00,0,5,0

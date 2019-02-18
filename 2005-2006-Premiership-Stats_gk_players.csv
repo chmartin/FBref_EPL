@@ -1,0 +1,42 @@
+,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
+0,34.2,ie IRL,Newcastle United,7,42,Shay Given,.760,90,GK,"3,420",0,38,29,17,14,1.11,38,175,13
+1,39.5,fi FIN,Bolton Wanderers,11,41,Jussi Jääskeläinen,.782,90,GK,"3,420",0,38,30,15,12,1.08,38,188,15
+2,34.2,eng ENG,Tottenham Hotspur,11,38,Paul Robinson,.770,90,GK,"3,420",0,38,25,18,9,1.00,38,165,13
+3,15.8,eng ENG,Manchester City,4,48,David James,.767,90,GK,"3,420",0,38,34,13,21,1.26,38,206,6
+4,42.1,us USA,Blackburn Rovers,6,42,Brad Friedel,.773,90,GK,"3,420",0,38,34,19,13,1.11,38,185,16
+5,42.1,de GER,Arsenal,7,31,Jens Lehmann,.817,90,GK,"3,420",0,38,35,20,11,0.82,38,169,16
+6,47.4,nl NED,Manchester United,8,33,Edwin van der Sar,.819,89,GK,"3,375",0,38,34,25,5,0.88,38,182,18
+7,30.6,dk DEN,Aston Villa,12,51,Thomas Sørensen,.788,90,GK,"3,240",0,36,29,9,15,1.42,36,240,11
+8,23.5,nir NIR,Birmingham City,10,44,Maik Taylor,.782,90,GK,"3,060",0,34,33,6,18,1.29,34,202,8
+9,52.9,cz CZE,Chelsea,4,20,Petr Čech,.856,89,GK,"3,015",0,34,23,27,3,0.60,34,139,18
+10,12.1,eng ENG,Sunderland,6,57,Kelvin Davis,.756,90,GK,"2,970",0,33,28,3,24,1.73,33,234,4
+11,60.6,es ESP,Liverpool,7,21,Pepe Reina,.851,90,GK,"2,962",0,33,22,21,5,0.64,33,141,20
+12,32.1,pl POL,West Bromwich Albion,7,37,Tomasz Kuszczak,.797,89,GK,"2,491",0,28,23,5,16,1.34,28,182,9
+13,29.6,au AUS,Middlesbrough,7,38,Mark Schwarzer,.758,90,GK,"2,430",0,27,32,9,11,1.41,27,157,8
+14,13.0,eng ENG,Wigan Athletic,4,38,Mike Pollitt,.678,88,GK,"2,115",1,24,33,6,14,1.62,23,118,3
+15,45.0,no NOR,Charlton Athletic,7,23,Thomas Myhre,.802,90,GK,"1,800",0,20,31,6,7,1.15,20,116,9
+16,35.0,eng ENG,Everton,2,24,Nigel Martyn,.774,88,GK,"1,755",0,20,38,8,9,1.23,20,106,7
+17,15.8,nir NIR,West Ham United,4,28,Roy Carroll,.754,90,GK,"1,710",0,19,27,7,8,1.47,19,114,3
+18,11.1,ie IRL,Portsmouth,0,31,Dean Kiely,.690,90,GK,"1,620",0,18,34,7,8,1.72,18,100,2
+19,17.6,eng ENG,Portsmouth,4,30,Jamie Ashdown,.681,90,GK,"1,530",0,17,24,3,10,1.76,17,94,3
+20,12.5,tt TRI,Fulham,2,32,Tony Warner,.701,83,GK,"1,486",2,18,31,3,12,1.94,16,107,2
+21,31.3,tt TRI,West Ham United,3,21,Shaka Hislop,.761,88,GK,"1,410",0,16,36,8,5,1.34,16,88,5
+22,20.0,dk DEN,Charlton Athletic,1,24,Stephan Andersen,.747,90,GK,"1,350",0,15,23,6,8,1.60,15,95,3
+23,46.7,au AUS,Wigan Athletic,2,14,John Filan,.831,87,GK,"1,305",0,15,35,9,3,0.97,15,83,7
+24,28.6,eng ENG,Everton,5,19,Richard Wright,.732,85,GK,"1,269",1,15,27,4,5,1.35,14,71,4
+25,30.8,wal WAL,Fulham,4,17,Mark Crossley,.746,86,GK,"1,124",0,13,36,4,4,1.36,13,67,4
+26,10.0,eng ENG,West Bromwich Albion,2,19,Chris Kirkland,.698,90,GK,900,0,10,24,2,6,1.90,10,63,1
+27,44.4,fi FIN,Fulham,0,9,Antti Niemi,.827,90,GK,810,0,9,33,7,2,1.00,9,52,4
+28,22.2,au AUS,Middlesbrough,1,18,Brad Jones,.654,90,GK,810,0,9,23,3,5,2.00,9,52,2
+29,12.5,nl NED,Everton,2,13,Sander Westerveld,.729,90,GK,720,0,8,30,1,5,1.62,8,48,1
+30,40.0,pl POL,Liverpool,0,4,Jerzy Dudek,.818,90,GK,450,0,5,32,4,1,0.80,5,22,2
+31,0.0,eng ENG,Sunderland,0,12,Ben Alnwick,.721,90,GK,450,0,5,18,0,5,2.40,5,43,0
+32,50.0,be BEL,Birmingham City,0,6,Nico Vaesen,.700,90,GK,360,0,4,35,2,2,1.50,4,20,2
+33,66.7,it ITA,Chelsea,0,1,Carlo Cudicini,.909,79,GK,315,1,4,31,2,1,0.29,3,11,2
+34,33.3,eng ENG,West Ham United,0,6,Jimmy Walker,.571,90,GK,270,0,3,32,1,2,2.00,3,14,1
+35,0.0,eng ENG,Aston Villa,0,4,Stuart Taylor,.636,90,GK,180,0,2,24,1,1,2.00,2,11,0
+36,0.0,eng ENG,Middlesbrough,1,2,Ross Turnbull,.846,90,GK,180,0,2,20,0,1,1.00,2,13,0
+37,50.0,sco SCO,Everton,0,2,Iain Turner,.667,45,GK,135,1,3,21,1,1,1.33,2,6,1
+38,0.0,eng ENG,Chelsea,0,1,Lenny Pidgeley,.750,90,GK,90,0,1,21,0,1,1.00,1,4,0
+39,,us USA,Manchester United,0,1,Tim Howard,.800,45,GK,45,1,1,26,0,0,2.00,0,5,0
+40,,eng ENG,West Ham United,0,0,Stephen Bywater,1.000,30,GK,30,1,1,24,0,0,0.00,0,3,0

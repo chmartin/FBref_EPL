@@ -1,0 +1,49 @@
+,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
+0,26.2,eng ENG,Crystal Palace,16,61,Nigel Martyn,.697,90,GK,"3,780",0,42,25,11,15,1.45,42,201,11
+1,26.2,sco SCO,Norwich City,9,65,Bryan Gunn,.684,90,GK,"3,780",0,42,28,21,12,1.55,42,206,11
+2,45.2,eng ENG,Blackburn Rovers,11,46,Bobby Mimms,.750,90,GK,"3,780",0,42,28,20,11,1.10,42,184,19
+3,23.8,eng ENG,Southampton,11,61,Tim Flowers,.712,90,GK,"3,780",0,42,25,13,18,1.45,42,212,10
+4,42.9,dk DEN,Manchester United,12,31,Peter Schmeichel,.782,90,GK,"3,780",0,42,28,24,6,0.74,42,142,18
+5,31.7,nl NED,Wimbledon,11,53,Hans Segers,.710,90,GK,"3,690",0,41,30,14,16,1.29,41,183,13
+6,27.5,eng ENG,Manchester City,12,45,Tony Coton,.744,89,GK,"3,545",0,40,31,15,15,1.14,40,176,11
+7,38.5,eng ENG,Arsenal,10,33,David Seaman,.824,91,GK,"3,536",0,39,28,15,14,0.84,39,188,15
+8,20.5,eng ENG,Sheffield Wednesday,15,46,Chris Woods,.723,90,GK,"3,510",0,39,32,13,12,1.18,39,166,8
+9,28.2,eng ENG,Leeds United,14,53,John Lukic,.679,90,GK,"3,510",0,39,31,12,13,1.36,39,165,11
+10,27.5,wal WAL,Everton,7,47,Neville Southall,.730,87,GK,"3,467",0,40,33,15,17,1.22,40,174,11
+11,24.3,wal WAL,Nottingham Forest,9,55,Mark Crossley,.704,90,GK,"3,330",0,37,23,9,19,1.49,37,186,9
+12,24.2,eng ENG,Coventry City,11,39,Steve Ogrizovic,.719,90,GK,"2,970",0,33,34,10,12,1.18,33,139,8
+13,28.1,ie IRL,Sheffield United,8,39,Alan Kelly Jr.,.745,89,GK,"2,944",1,33,23,11,13,1.19,32,153,9
+14,26.7,,Ipswich Town,9,40,Clive Baker,.699,87,GK,"2,705",1,31,33,8,13,1.33,30,133,8
+15,31.0,eng ENG,Liverpool,10,34,David James,.699,90,GK,"2,610",0,29,21,8,10,1.17,29,113,9
+16,17.9,wal WAL,Queens Park Rangers,8,36,Tony Roberts,.714,89,GK,"2,482",0,28,22,11,8,1.31,28,126,5
+17,32.0,no NOR,Tottenham Hotspur,6,38,Erik Thorstvedt,.664,85,GK,"2,287",2,27,29,12,8,1.50,25,113,8
+18,28.0,eng ENG,Aston Villa,8,28,Nigel Spink,.738,90,GK,"2,250",0,25,33,12,5,1.12,25,107,7
+19,8.0,eng ENG,Oldham Athletic,4,44,Paul Gerrard,.648,90,GK,"2,250",0,25,19,9,12,1.76,25,125,2
+20,15.4,eng ENG,Middlesbrough,6,48,Stephen Pears,.607,82,GK,"2,141",0,26,30,6,14,2.02,26,122,4
+21,35.0,,Chelsea,6,23,Kevin Hitchcock,.758,90,GK,"1,800",0,20,29,7,7,1.15,20,95,7
+22,23.5,eng ENG,Chelsea,7,21,Dave Beasant,.772,90,GK,"1,530",0,17,33,5,5,1.24,17,92,4
+23,47.1,au AUS,Aston Villa,3,12,Mark Bosnich,.854,90,GK,"1,530",0,17,20,9,5,0.71,17,82,8
+24,6.3,eng ENG,Oldham Athletic,6,29,Jon Hallworth,.633,90,GK,"1,440",0,16,26,3,7,1.81,16,79,1
+25,11.8,eng ENG,Tottenham Hotspur,5,28,Ian Walker,.616,84,GK,"1,433",0,17,20,4,7,1.76,17,73,2
+26,21.4,"cs TCH,cz CZE",Queens Park Rangers,4,19,Jan Stejskal,.712,86,GK,"1,288",1,15,30,6,5,1.33,14,66,3
+27,18.2,eng ENG,Middlesbrough,3,19,Ian Ironside,.732,87,GK,"1,044",1,12,28,3,5,1.64,11,71,2
+28,36.4,ca CAN,Ipswich Town,7,14,Craig Forrest,.725,90,GK,985,0,11,24,3,1,1.28,11,51,4
+29,20.0,eng ENG,Sheffield United,2,14,Simon Tracey,.708,88,GK,876,0,10,24,3,5,1.44,10,48,2
+30,33.3,sco SCO,Coventry City,2,18,Jonathan Gould,.654,90,GK,810,0,9,24,3,4,2.00,9,52,3
+31,25.0,eng ENG,Liverpool,1,13,Mike Hooper,.745,87,GK,784,1,9,28,4,4,1.49,8,51,2
+32,0.0,wal WAL,Nottingham Forest,1,7,Andy Marriott,.682,90,GK,450,0,5,21,1,3,1.40,5,22,0
+33,0.0,"ru RUS,su URS",Chelsea,1,9,Dmitri Kharine,.550,86,GK,428,0,5,23,2,2,1.89,5,20,0
+34,20.0,zw ZIM,Liverpool,0,8,Bruce Grobbelaar,.704,79,GK,396,0,5,34,4,1,1.82,5,27,1
+35,33.3,eng ENG,Arsenal,1,5,Alan Miller,.615,86,GK,344,1,4,22,0,2,1.31,3,13,1
+36,0.0,au AUS,Everton,1,8,Jason Kearton,.636,63,GK,313,3,5,23,0,2,2.30,2,22,0
+37,66.7,eng ENG,Middlesbrough,1,3,Brian Horne,.786,74,GK,294,1,4,24,2,0,0.92,3,14,2
+38,33.3,eng ENG,Sheffield Wednesday,0,5,Kevin Pressman,.583,90,GK,270,0,3,24,2,1,1.67,3,12,1
+39,0.0,eng ENG,Middlesbrough,1,5,Andy Collett,.583,90,GK,180,0,2,18,0,1,2.50,2,12,0
+40,0.0,eng ENG,Leeds United,0,6,Mervyn Day,.500,90,GK,180,0,2,37,0,2,3.00,2,12,0
+41,0.0,wal WAL,Manchester City,1,2,Andy Dibble,.667,73,GK,145,1,2,27,0,0,1.24,1,6,0
+42,0.0,sco SCO,Wimbledon,1,2,Neil Sullivan,.600,90,GK,90,0,1,22,0,0,2.00,1,5,0
+43,0.0,au AUS,Ipswich Town,0,1,Andy Petterson,.750,90,GK,90,0,1,22,1,0,1.00,1,4,0
+44,0.0,,Leeds United,1,3,Mark Beeney,.625,90,GK,90,0,1,24,0,0,3.00,1,8,0
+45,0.0,eng ENG,Oldham Athletic,0,1,John Keeley,.750,90,GK,90,0,1,31,1,0,1.00,1,4,0
+46,0.0,wal WAL,Manchester City,0,4,Martyn Margetson,.333,90,GK,90,0,1,20,0,1,4.00,1,6,0
+47,,ie IRL,Chelsea,0,1,Gerry Peyton,.667,22,GK,22,1,1,36,0,0,4.09,0,3,0

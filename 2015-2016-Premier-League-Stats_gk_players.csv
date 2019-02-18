@@ -1,0 +1,48 @@
+,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
+0,39.5,dk DEN,Leicester City,12,36,Kasper Schmeichel,.735,90,GK,"3,420",0,38,28,23,3,0.95,38,136,15
+1,28.9,br BRA,Watford,9,49,Heurelho Gomes,.598,89,GK,"3,396",0,38,34,12,17,1.30,38,122,11
+2,35.1,fr FRA,Tottenham Hotspur,13,34,Hugo Lloris,.714,90,GK,"3,330",0,37,28,19,5,0.92,37,119,13
+3,24.3,pl POL,Swansea City,10,51,Łukasz Fabiański,.681,90,GK,"3,330",0,37,30,12,15,1.38,37,160,9
+4,42.9,eng ENG,Manchester City,9,36,Joe Hart,.660,89,GK,"3,109",0,35,28,17,9,1.04,35,106,15
+5,47.1,cz CZE,Arsenal,9,31,Petr Čech,.756,90,GK,"3,060",0,34,33,18,7,0.91,34,127,16
+6,44.1,es ESP,Manchester United,8,33,David de Gea,.703,90,GK,"3,060",0,34,24,17,9,0.97,34,111,15
+7,0.0,be BEL,Liverpool,11,42,Simon Mignolet,.622,90,GK,"3,060",0,34,27,15,8,1.24,34,111,0
+8,21.9,pl POL,Bournemouth,7,51,Artur Boruc,.589,90,GK,"2,880",0,32,35,11,14,1.59,32,124,7
+9,28.1,es ESP,West Ham United,14,39,Adrián,.717,90,GK,"2,880",0,32,28,13,5,1.22,32,138,9
+10,32.3,eng ENG,Stoke City,7,37,Jack Butland,.734,90,GK,"2,790",0,31,22,13,11,1.19,31,139,10
+11,27.6,wal WAL,Crystal Palace,9,36,Wayne Hennessey,.684,90,GK,"2,610",0,29,28,8,12,1.24,29,114,8
+12,7.1,us USA,Aston Villa,5,58,Brad Guzan,.597,90,GK,"2,520",0,28,30,1,22,2.07,28,144,2
+13,11.1,eng ENG,Norwich City,6,44,John Ruddy,.604,90,GK,"2,430",0,27,28,6,15,1.63,27,111,3
+14,28.0,us USA,Everton,11,35,Tim Howard,.698,90,GK,"2,250",0,25,36,8,6,1.40,25,116,7
+15,30.4,wal WAL,West Bromwich Albion,7,31,Boaz Myhill,.674,90,GK,"2,070",0,23,32,7,9,1.35,23,95,7
+16,21.7,be BEL,Chelsea,9,29,Thibaut Courtois,.688,88,GK,"2,020",0,23,23,8,5,1.29,23,93,5
+17,19.0,ie IRL,Newcastle United,4,37,Rob Elliot,.606,90,GK,"1,890",0,21,29,6,11,1.76,21,94,4
+18,21.1,it ITA,Sunderland,8,23,Vito Mannone,.758,90,GK,"1,710",0,19,27,6,5,1.21,19,95,4
+19,33.3,eng ENG,Southampton,3,17,Fraser Forster,.746,90,GK,"1,620",0,18,27,12,3,0.94,18,67,6
+20,17.6,ro ROU,Sunderland,3,33,Costel Pantilimon,.676,90,GK,"1,530",0,17,28,3,11,1.94,17,102,3
+21,35.3,nl NED,Southampton,5,19,Maarten Stekelenburg,.604,90,GK,"1,530",0,17,32,6,6,1.12,17,48,6
+22,26.7,ba BIH,Chelsea,5,24,Asmir Begović,.696,82,GK,"1,399",2,17,28,4,7,1.54,15,79,4
+23,26.7,eng ENG,West Bromwich Albion,6,17,Ben Foster,.717,90,GK,"1,350",0,15,32,3,6,1.13,15,60,4
+24,23.1,es ESP,Everton,3,20,Joel Robles,.688,90,GK,"1,170",0,13,25,3,7,1.54,13,64,3
+25,18.2,eng ENG,Norwich City,1,23,Declan Rudd,.574,90,GK,990,0,11,24,3,7,2.09,11,54,2
+26,40.0,eng ENG,Aston Villa,3,18,Mark Bunn,.571,90,GK,900,0,10,30,2,5,1.80,10,42,4
+27,33.3,eng ENG,Newcastle United,3,11,Karl Darlow,.676,90,GK,810,0,9,24,3,3,1.22,9,34,3
+28,12.5,nl NED,Newcastle United,3,17,Tim Krul,.660,90,GK,720,0,8,27,0,5,2.12,8,50,1
+29,0.0,eng ENG,Crystal Palace,0,9,Alex McCarthy,.769,90,GK,630,0,7,25,3,4,1.29,7,39,0
+30,33.3,ie IRL,West Ham United,0,12,Darren Randolph,.500,90,GK,540,0,6,28,3,3,2.00,6,24,2
+31,0.0,au AUS,Bournemouth,2,15,Adam Federici,.444,83,GK,495,0,6,30,0,4,2.73,6,27,0
+32,0.0,dk DEN,Stoke City,2,11,Jakob Haugaard,.500,81,GK,405,1,5,23,0,2,2.44,4,22,0
+33,75.0,ar ARG,Manchester United,1,2,Sergio Romero,.778,90,GK,360,0,4,28,2,1,0.50,4,9,3
+34,50.0,co COL,Arsenal,2,5,David Ospina,.773,90,GK,360,0,4,26,2,0,1.25,4,22,2
+35,33.3,ar ARG,Manchester City,0,5,Willy Caballero,.737,78,GK,311,1,4,33,2,1,1.45,3,19,1
+36,0.0,ie IRL,Stoke City,0,7,Shay Given,.500,75,GK,225,0,3,39,1,2,2.80,3,14,0
+37,0.0,eng ENG,Sunderland,1,6,Jordan Pickford,.647,90,GK,180,0,2,21,0,1,3.00,2,17,0
+38,0.0,hu HUN,Liverpool,1,4,Ádám Bogdán,.333,90,GK,180,0,2,27,0,1,2.00,2,6,0
+39,0.0,ar ARG,Southampton,0,3,Paulo Gazzaniga,.727,90,GK,180,0,2,23,0,2,1.50,2,11,0
+40,0.0,ar ARG,Crystal Palace,0,6,Julián Speroni,.600,90,GK,180,0,2,36,0,2,3.00,2,15,0
+41,0.0,wal WAL,Liverpool,0,4,Danny Ward,.692,90,GK,180,0,2,22,1,1,2.00,2,13,0
+42,0.0,nl NED,Tottenham Hotspur,0,1,Michel Vorm,.500,90,GK,90,0,1,31,0,1,1.00,1,2,0
+43,0.0,eng ENG,Southampton,1,2,Kelvin Davis,.714,90,GK,90,0,1,38,0,0,2.00,1,7,0
+44,0.0,se SWE,Swansea City,1,1,Kristoffer Nordfeldt,.800,90,GK,90,0,1,26,0,0,1.00,1,5,0
+45,,eng ENG,Bournemouth,0,1,Ryan Allsop,.500,45,GK,45,1,1,23,0,0,2.00,0,2,0
+46,,lt LTU,Watford,0,1,Giedrius Arlauskis,.500,24,GK,24,1,1,27,0,0,3.75,0,2,0

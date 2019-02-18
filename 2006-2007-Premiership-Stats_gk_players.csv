@@ -1,0 +1,48 @@
+,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
+0,31.6,fi FIN,Bolton Wanderers,8,52,Jussi Jääskeläinen,.759,90,GK,"3,420",0,38,31,16,14,1.37,38,216,12
+1,15.8,eng ENG,Tottenham Hotspur,9,54,Paul Robinson,.724,90,GK,"3,420",0,38,26,17,12,1.42,38,196,6
+2,31.6,eng ENG,Portsmouth,12,42,David James,.804,90,GK,"3,420",0,38,35,13,13,1.11,38,214,12
+3,21.1,us USA,Blackburn Rovers,7,54,Brad Friedel,.804,89,GK,"3,375",0,38,35,14,16,1.44,38,276,8
+4,34.2,us USA,Reading,6,45,Marcus Hahnemann,.794,87,GK,"3,308",0,38,34,16,15,1.22,38,218,13
+5,30.6,eng ENG,Charlton Athletic,9,55,Scott Carson,.764,90,GK,"3,240",0,36,20,8,19,1.53,36,233,11
+6,38.9,us USA,Everton,13,29,Tim Howard,.858,90,GK,"3,240",0,36,27,15,8,0.81,36,204,14
+7,27.8,de GER,Arsenal,10,35,Jens Lehmann,.795,90,GK,"3,240",0,36,36,18,8,0.97,36,171,10
+8,22.2,au AUS,Middlesbrough,8,48,Mark Schwarzer,.786,90,GK,"3,240",0,36,33,12,16,1.33,36,224,8
+9,54.3,es ESP,Liverpool,7,23,Pepe Reina,.857,90,GK,"3,150",0,35,23,19,9,0.66,35,161,19
+10,26.5,ie IRL,Sheffield United,7,46,Paddy Kenny,.779,89,GK,"3,032",0,34,28,10,17,1.37,34,208,9
+11,37.5,nl NED,Manchester United,4,25,Edwin van der Sar,.836,90,GK,"2,880",0,32,35,24,4,0.78,32,152,12
+12,21.9,fi FIN,Fulham,13,45,Antti Niemi,.755,89,GK,"2,851",0,32,34,8,11,1.42,32,184,7
+13,20.7,eng ENG,Watford,10,45,Ben Foster,.787,88,GK,"2,565",0,29,23,4,14,1.58,29,211,6
+14,41.4,dk DEN,Aston Villa,13,24,Thomas Sørensen,.842,88,GK,"2,546",0,29,30,11,5,0.85,29,152,12
+15,34.6,eng ENG,West Ham United,1,39,Robert Green,.762,90,GK,"2,340",0,26,26,11,14,1.50,26,164,9
+16,26.9,eng ENG,Wigan Athletic,3,43,Chris Kirkland,.750,88,GK,"2,295",0,26,25,7,15,1.69,26,172,7
+17,36.0,eng ENG,Manchester City,5,28,Nicky Weaver,.788,86,GK,"2,151",0,25,27,8,11,1.17,25,132,9
+18,13.6,ie IRL,Newcastle United,5,27,Shay Given,.794,86,GK,"1,884",0,22,30,9,7,1.29,22,131,3
+19,65.0,cz CZE,Chelsea,5,9,Petr Čech,.913,86,GK,"1,715",0,20,24,14,1,0.47,20,104,13
+20,26.7,eng ENG,Newcastle United,5,18,Steve Harper,.786,85,GK,"1,438",2,17,31,2,9,1.13,15,84,4
+21,33.3,se SWE,Manchester City,3,16,Andreas Isaksson,.738,84,GK,"1,179",2,14,24,3,7,1.22,12,61,4
+22,0.0,nir NIR,West Ham United,4,20,Roy Carroll,.733,90,GK,"1,080",0,12,28,1,7,1.67,12,75,0
+23,36.4,pt POR,Chelsea,4,12,Henrique Hilário,.692,90,GK,990,0,11,30,6,1,1.09,11,39,4
+24,30.0,au AUS,Wigan Athletic,4,14,John Filan,.725,90,GK,900,0,10,36,2,4,1.40,10,51,3
+25,33.3,eng ENG,Watford,3,14,Richard Lee,.770,85,GK,854,1,10,23,1,6,1.48,9,61,3
+26,71.4,it ITA,Chelsea,2,3,Carlo Cudicini,.906,90,GK,630,0,7,32,4,1,0.43,7,32,5
+27,0.0,cz CZE,Fulham,2,15,Jan Laštůvka,.717,81,GK,569,1,7,24,0,4,2.37,6,53,0
+28,66.7,pl POL,Manchester United,1,2,Tomasz Kuszczak,.917,90,GK,540,0,6,24,4,1,0.33,6,24,4
+29,20.0,hu HUN,Aston Villa,1,8,Gábor Király,.692,90,GK,450,0,5,30,0,4,1.60,5,26,1
+30,0.0,eng ENG,Aston Villa,3,9,Stuart Taylor,.690,71,GK,424,2,6,25,0,1,1.91,4,29,0
+31,0.0,eng ENG,Wigan Athletic,1,3,Mike Pollitt,.769,75,GK,225,1,3,34,1,1,1.20,2,13,0
+32,50.0,pl POL,Liverpool,0,2,Jerzy Dudek,.750,90,GK,180,0,2,33,1,1,1.00,2,8,1
+33,0.0,eng ENG,Sheffield United,0,5,Ian Bennett,.643,90,GK,180,0,2,34,0,2,2.50,2,14,0
+34,0.0,eng ENG,Sheffield United,1,4,Paul Gerrard,.692,90,GK,180,0,2,33,0,1,2.00,2,13,0
+35,50.0,au AUS,Middlesbrough,2,1,Brad Jones,.900,90,GK,180,0,2,24,0,0,0.50,2,10,1
+36,,au AUS,Reading,1,2,Adam Federici,.600,56,GK,112,2,2,21,0,0,1.61,0,5,0
+37,0.0,cz CZE,Newcastle United,0,2,Pavel Srníček,.778,47,GK,94,1,2,38,0,1,1.91,1,9,0
+38,0.0,ie IRL,Charlton Athletic,1,2,Darren Randolph,.667,90,GK,90,0,1,19,0,0,2.00,1,6,0
+39,100.0,es ESP,Arsenal,0,0,Manuel Almunia,1.000,90,GK,90,0,1,29,1,0,0.00,1,4,1
+40,0.0,sco SCO,Everton,0,4,Iain Turner,.556,90,GK,90,0,1,22,0,1,4.00,1,9,0
+41,100.0,eng ENG,Manchester City,1,0,Joe Hart,1.000,90,GK,90,0,1,19,0,0,0.00,1,6,1
+42,0.0,it ITA,Liverpool,1,2,Daniele Padelli,.500,90,GK,90,0,1,20,0,0,2.00,1,4,0
+43,0.0,eng ENG,Everton,0,3,Richard Wright,.625,90,GK,90,0,1,28,0,1,3.00,1,8,0
+44,0.0,no NOR,Charlton Athletic,0,3,Thomas Myhre,.625,90,GK,90,0,1,32,0,1,3.00,1,8,0
+45,100.0,ee EST,Arsenal,1,0,Mart Poom,1.000,90,GK,90,0,1,34,0,0,0.00,1,2,1
+46,,wal WAL,Blackburn Rovers,0,0,Jason Brown,1.000,45,GK,45,1,1,24,1,0,0.00,0,1,0
