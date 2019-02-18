@@ -1,0 +1,517 @@
+,goals,squad,shots_on_target,position,shots_on_target_per90,games_subs,goals_assists_pens_per90,minutes,goals_pens_per90,age,cards_per90,fouls_per90,cards_yellow,goals_per90,minutes_per_game,fouls,games_starts,assists,nationality,pens_att,goals_assists_per90,cards_red,pens_made,games,player
+0,2,Sheffield Wednesday,8,"DF,MF",0.21,0,0.08,"3,420",0.05,28,0.11,,3,0.05,90,,38,1,eng ENG,0,0.08,1,0,38,Peter Atherton
+1,5,West Ham United,21,MF,0.55,0,0.24,"3,420",0.11,20,0.08,,3,0.13,90,,38,5,eng ENG,1,0.26,0,1,38,Frank Lampard
+2,0,Wimbledon,0,GK,0.00,0,0.00,"3,420",0.00,28,0.11,,4,0.00,90,,38,0,sco SCO,0,0.00,0,0,38,Neil Sullivan
+3,4,Leicester City,13,MF,0.34,0,0.42,"3,420",0.11,29,0.11,,4,0.11,90,,38,12,eng ENG,0,0.42,0,0,38,Steve Guppy
+4,3,Middlesbrough,12,"DF,MF",0.32,0,0.18,"3,420",0.08,25,0.08,,3,0.08,90,,38,4,eng ENG,0,0.18,0,0,38,Dean Gordon
+5,1,Aston Villa,5,DF,0.13,0,0.03,"3,420",0.03,27,0.13,,5,0.03,90,,38,0,eng ENG,0,0.03,0,0,38,Gareth Southgate
+6,0,Everton,0,GK,0.00,0,0.00,"3,420",0.00,24,0.08,,3,0.00,90,,38,0,no NOR,0,0.00,0,0,38,Thomas Myhre
+7,0,Charlton Athletic,7,DF,0.18,0,0.03,"3,409",0.00,28,0.05,,2,0.00,90,,38,1,eng ENG,0,0.03,0,0,38,Chris Powell
+8,0,Aston Villa,6,DF,0.16,0,0.05,"3,405",0.00,26,0.08,,3,0.00,90,,38,2,eng ENG,0,0.05,0,0,38,Alan Wright
+9,2,Sheffield Wednesday,11,MF,0.30,0,0.11,"3,345",0.05,31,0.08,,3,0.05,88,,38,2,nl NED,0,0.11,0,0,38,Wim Jonk
+10,6,Tottenham Hotspur,9,"FW,DF",0.24,0,0.16,"3,330",0.16,23,0.00,,0,0.16,90,,37,0,eng ENG,0,0.16,0,0,37,Sol Campbell
+11,0,West Ham United,0,GK,0.00,0,0.00,"3,330",0.00,29,0.03,,0,0.00,90,,37,0,tt TRI,0,0.00,1,0,37,Shaka Hislop
+12,0,Tottenham Hotspur,8,DF,0.22,0,0.08,"3,321",0.00,21,0.11,,4,0.00,90,,37,3,ie IRL,0,0.08,0,0,37,Stephen Carr
+13,3,Leicester City,13,DF,0.35,0,0.14,"3,306",0.05,29,0.19,,7,0.08,89,,37,3,sco SCO,2,0.16,0,1,37,Matt Elliott
+14,1,Leicester City,12,MF,0.33,0,0.14,"3,295",0.03,27,0.16,,6,0.03,89,,37,4,nir NIR,0,0.14,0,0,37,Neil Lennon
+15,1,Sheffield Wednesday,6,DF,0.17,0,0.06,"3,272",0.03,26,0.08,,3,0.03,88,,37,1,br BRA,0,0.06,0,0,37,Emerson Thome
+16,0,Coventry City,8,DF,0.22,1,0.00,"3,261",0.00,29,0.06,,2,0.00,88,,36,0,eng ENG,0,0.00,0,0,37,Richard Shaw
+17,3,Everton,9,DF,0.25,1,0.03,"3,255",0.00,18,0.22,,8,0.08,88,,36,1,eng ENG,4,0.11,0,3,37,Michael Ball
+18,0,Sheffield Wednesday,6,DF,0.17,0,0.00,"3,241",0.00,32,0.06,,2,0.00,88,,37,0,eng ENG,0,0.00,0,0,37,Des Walker
+19,0,Coventry City,0,GK,0.00,0,0.00,"3,240",0.00,25,0.06,,2,0.00,90,,36,0,se SWE,0,0.00,0,0,36,Magnus Hedman
+20,3,Charlton Athletic,14,MF,0.39,0,0.14,"3,239",0.08,25,0.11,,4,0.08,85,,38,2,ie IRL,0,0.14,0,0,38,Mark Kinsella
+21,0,Derby County,7,DF,0.20,0,0.00,"3,218",0.00,26,0.20,,7,0.00,87,,37,0,dk DEN,0,0.00,0,0,37,Jacob Laursen
+22,6,Leeds United,17,"MF,FW",0.48,2,0.48,"3,200",0.17,19,0.08,,3,0.17,84,,36,11,au AUS,0,0.48,0,0,38,Harry Kewell
+23,0,Leicester City,0,GK,0.00,0,0.00,"3,167",0.00,28,0.06,,2,0.00,88,,36,0,us USA,0,0.00,0,0,36,Kasey Keller
+24,6,West Ham United,22,MF,0.63,0,0.28,"3,167",0.17,25,0.20,,7,0.17,88,,36,4,eng ENG,0,0.28,0,0,36,Trevor Sinclair
+25,0,Wimbledon,3,DF,0.09,0,0.03,"3,150",0.00,27,0.09,,3,0.00,90,,35,1,ie IRL,0,0.03,0,0,35,Kenny Cunningham
+26,9,Leeds United,24,MF,0.69,0,0.29,"3,140",0.26,21,0.23,,8,0.26,90,,35,1,eng ENG,0,0.29,0,0,35,Lee Bowyer
+27,0,Arsenal,8,DF,0.23,0,0.03,"3,139",0.00,34,0.23,,7,0.00,87,,36,1,eng ENG,0,0.03,1,0,36,Lee Dixon
+28,2,Charlton Athletic,7,DF,0.20,0,0.11,"3,136",0.06,21,0.29,,10,0.06,87,,36,2,eng ENG,0,0.11,0,0,36,Danny Mills
+29,18,Leeds United,57,FW,1.64,0,0.75,"3,136",0.49,26,0.23,,8,0.52,87,,36,9,nl NED,1,0.77,0,1,36,Jimmy Floyd Hasselbaink
+30,5,Wimbledon,17,MF,0.49,0,0.20,"3,128",0.14,33,0.06,,2,0.14,89,,35,2,jm JAM,0,0.20,0,0,35,Robbie Earle
+31,4,Newcastle United,15,MF,0.43,4,0.12,"3,117",0.12,28,0.17,,6,0.12,82,,34,0,wal WAL,0,0.12,0,0,38,Gary Speed
+32,1,Middlesbrough,13,MF,0.38,0,0.12,"3,083",0.03,35,0.29,,10,0.03,88,,35,3,ie IRL,0,0.12,0,0,35,Andy Townsend
+33,0,Middlesbrough,0,GK,0.00,0,0.00,"3,060",0.00,25,0.03,,1,0.00,90,,34,0,au AUS,0,0.00,0,0,34,Mark Schwarzer
+34,6,Arsenal,27,MF,0.80,0,0.27,"3,054",0.18,25,0.12,,4,0.18,87,,35,3,eng ENG,0,0.27,0,0,35,Ray Parlour
+35,6,Arsenal,45,"FW,MF",1.33,0,0.38,"3,052",0.18,25,0.06,,2,0.18,83,,37,7,nl NED,0,0.38,0,0,37,Marc Overmars
+36,1,Arsenal,1,"DF,MF",0.03,0,0.06,"3,037",0.03,32,0.27,,7,0.03,89,,34,1,eng ENG,0,0.06,2,0,34,Martin Keown
+37,4,Leeds United,10,DF,0.30,1,0.24,"3,034",0.09,20,0.21,,7,0.12,87,,34,5,ie IRL,2,0.27,0,1,35,Ian Harte
+38,0,Wimbledon,6,DF,0.18,0,0.00,"3,029",0.00,25,0.18,,6,0.00,89,,34,0,eng ENG,0,0.00,0,0,34,Chris Perry
+39,1,Blackburn Rovers,9,DF,0.27,0,0.03,"3,025",0.03,22,0.21,,7,0.03,89,,34,0,sco SCO,0,0.03,0,0,34,Callum Davidson
+40,9,Derby County,23,FW,0.69,2,0.45,"3,021",0.27,22,0.30,,9,0.27,86,,33,6,cr CRC,0,0.45,1,0,35,Paulo Wanchope
+41,0,Chelsea,0,GK,0.00,0,0.00,"3,016",0.00,31,0.06,,2,0.00,89,,34,0,nl NED,0,0.00,0,0,34,Ed de Goey
+42,0,Leeds United,0,GK,0.00,0,0.00,"3,015",0.00,31,0.00,,0,0.00,89,,34,0,eng ENG,0,0.00,0,0,34,Nigel Martyn
+43,0,Manchester United,0,GK,0.00,0,0.00,"3,015",0.00,34,0.00,,0,0.00,89,,34,0,dk DEN,0,0.00,0,0,34,Peter Schmeichel
+44,2,Liverpool,9,"DF,MF",0.27,0,0.09,"3,009",0.06,20,0.18,,5,0.06,89,,34,1,eng ENG,0,0.09,1,0,34,Jamie Carragher
+45,5,Liverpool,15,MF,0.45,0,0.27,"3,001",0.15,30,0.27,,9,0.15,88,,34,4,eng ENG,0,0.27,0,0,34,Paul Ince
+46,1,Derby County,6,DF,0.18,1,0.03,"3,000",0.03,27,0.12,,4,0.03,88,,33,0,eng ENG,0,0.03,0,0,34,Spencer Prior
+47,1,Manchester United,6,DF,0.18,0,0.12,"2,999",0.03,23,0.21,,6,0.03,88,,34,3,eng ENG,0,0.12,1,0,34,Gary Neville
+48,4,Nottingham Forest,10,DF,0.30,0,0.15,"2,982",0.12,21,0.24,,8,0.12,88,,34,1,eng ENG,0,0.15,0,0,34,Alan Rogers
+49,1,Everton,7,DF,0.21,1,0.06,"2,971",0.03,24,0.24,,8,0.03,87,,33,1,eng ENG,0,0.06,0,0,34,David Unsworth
+50,2,West Ham United,7,DF,0.21,0,0.12,"2,962",0.06,24,0.12,,4,0.06,90,,33,2,eng ENG,0,0.12,0,0,33,Ian Pearce
+51,8,Liverpool,24,MF,0.74,1,0.34,"2,936",0.18,25,,,6,0.25,86,,33,5,eng ENG,2,0.40,,2,34,Jamie Redknapp
+52,3,Arsenal,10,MF,0.31,0,0.18,"2,936",0.09,22,0.25,,7,0.09,86,,34,3,fr FRA,0,0.18,1,0,34,Patrick Vieira
+53,13,Chelsea,46,FW,1.42,2,0.55,"2,922",0.40,32,0.03,,1,0.40,79,,35,5,it ITA,0,0.55,0,0,37,Gianfranco Zola
+54,6,Sheffield Wednesday,17,FW,0.53,0,0.34,"2,910",0.19,24,0.22,,7,0.19,86,,34,5,eng ENG,0,0.34,0,0,34,Andy Booth
+55,4,Chelsea,10,DF,0.31,0,0.03,"2,887",0.03,30,0.31,,9,0.12,88,,33,0,fr FRA,4,0.12,1,3,33,Frank Leboeuf
+56,0,Blackburn Rovers,6,DF,0.19,0,0.00,"2,885",0.00,23,0.19,,6,0.00,85,,34,0,ch SUI,0,0.00,0,0,34,Stéphane Henchoz
+57,6,Manchester United,19,MF,0.59,1,0.50,"2,884",0.19,23,0.16,,5,0.19,85,,33,10,eng ENG,0,0.50,0,0,34,David Beckham
+58,0,Arsenal,0,GK,0.00,0,0.00,"2,880",0.00,34,0.00,,0,0.00,90,,32,0,eng ENG,0,0.00,0,0,32,David Seaman
+59,18,Manchester United,37,"MF,FW",1.16,0,0.91,"2,876",0.56,26,0.06,,2,0.56,87,,33,11,tt TRI,1,0.91,0,0,33,Dwight Yorke
+60,2,Manchester United,17,MF,0.53,1,0.06,"2,866",0.06,26,0.25,,8,0.06,84,,33,0,ie IRL,0,0.06,0,0,34,Roy Keane
+61,2,Nottingham Forest,6,DF,0.19,2,0.00,"2,845",0.00,29,0.28,,8,0.06,84,,32,0,eng ENG,2,0.06,1,2,34,Steve Chettle
+62,7,Sheffield Wednesday,16,MF,0.51,1,0.25,"2,835",0.22,24,0.06,,2,0.22,83,,33,1,no NOR,0,0.25,0,0,34,Petter Rudi
+63,4,Leeds United,13,MF,0.41,2,0.22,"2,834",0.13,27,0.19,,6,0.13,83,,32,3,sco SCO,0,0.22,0,0,34,David Hopkin
+64,0,Nottingham Forest,5,MF,0.16,1,0.03,"2,833",0.00,32,0.35,,10,0.00,89,,31,1,eng ENG,0,0.03,1,0,32,Carlton Palmer
+65,5,Tottenham Hotspur,17,MF,0.54,2,0.16,"2,816",0.16,29,0.16,,3,0.16,85,,31,0,eng ENG,0,0.16,2,0,33,Tim Sherwood
+66,1,Middlesbrough,7,DF,0.22,1,0.06,"2,809",0.03,31,0.16,,5,0.03,85,,32,1,eng ENG,0,0.06,0,0,33,Colin Cooper
+67,17,Arsenal,51,FW,1.64,1,0.71,"2,807",0.55,19,0.03,,1,0.55,80,,34,5,fr FRA,0,0.71,0,0,35,Nicolas Anelka
+68,4,Middlesbrough,22,MF,0.71,0,0.19,"2,803",0.13,29,0.29,,8,0.13,88,,32,2,eng ENG,0,0.19,1,0,32,Robbie Mustoe
+69,3,Aston Villa,10,MF,0.32,1,0.26,"2,800",0.06,21,0.26,,8,0.10,88,,31,6,eng ENG,1,0.29,0,1,32,Lee Hendrie
+70,3,Sheffield Wednesday,9,DF,0.29,0,0.23,"2,797",0.10,29,0.16,,4,0.10,87,,32,4,eng ENG,0,0.23,1,0,32,Andy Hinchcliffe
+71,0,Aston Villa,6,"MF,DF",0.19,0,0.10,"2,792",0.00,24,0.10,,2,0.00,82,,34,3,eng ENG,0,0.10,1,0,34,Steve Watson
+72,0,Southampton,0,GK,0.00,0,0.00,"2,790",0.00,31,0.06,,1,0.00,90,,31,0,wal WAL,0,0.00,1,0,31,Paul Jones
+73,1,Southampton,10,MF,0.32,0,0.10,"2,780",0.03,25,0.45,,14,0.03,87,,32,2,eng ENG,0,0.10,0,0,32,David Hughes
+74,0,Southampton,5,DF,0.16,3,0.00,"2,776",0.00,25,0.13,,3,0.00,84,,30,0,no NOR,0,0.00,1,0,33,Claus Lundekvam
+75,10,Wimbledon,19,"FW,MF",0.62,4,0.49,"2,767",0.33,27,0.03,,1,0.33,79,,31,5,jm JAM,0,0.49,0,0,35,Marcus Gayle
+76,0,Derby County,6,MF,0.20,3,0.07,"2,762",0.00,26,0.26,,8,0.00,84,,30,2,jm JAM,0,0.07,0,0,33,Darryl Powell
+77,0,Newcastle United,0,GK,0.00,0,0.00,"2,745",0.00,22,0.00,,0,0.00,89,,31,0,ie IRL,0,0.00,0,0,31,Shay Given
+78,9,Coventry City,26,FW,0.85,0,0.36,"2,744",0.30,23,0.30,,9,0.30,89,,31,2,eng ENG,0,0.36,0,0,31,Noel Whelan
+79,9,Coventry City,31,"MF,FW",1.02,3,0.43,"2,736",0.30,22,0.23,,7,0.30,81,,31,4,eng ENG,0,0.43,0,0,34,Darren Huckerby
+80,3,Tottenham Hotspur,15,MF,0.50,1,0.46,"2,721",0.03,26,0.20,,6,0.10,85,,31,13,eng ENG,2,0.53,0,2,32,Darren Anderton
+81,1,Newcastle United,12,DF,0.40,1,0.07,"2,718",0.03,25,0.10,,3,0.03,88,,30,1,fr FRA,0,0.07,0,0,31,Laurent Charvet
+82,0,Wimbledon,3,DF,0.10,0,0.03,"2,714",0.00,22,0.27,,8,0.00,88,,31,1,wal WAL,0,0.03,0,0,31,Ben Thatcher
+83,8,Sheffield Wednesday,22,FW,0.73,0,0.43,"2,710",0.23,26,0.30,,9,0.27,87,,31,6,it ITA,2,0.46,0,1,31,Benito Carbone
+84,0,West Ham United,5,DF,0.17,0,0.00,"2,703",0.00,19,0.17,,5,0.00,87,,31,0,eng ENG,0,0.00,0,0,31,Rio Ferdinand
+85,15,Middlesbrough,44,FW,1.47,4,0.57,"2,701",0.47,24,0.17,,5,0.50,75,,32,3,co COL,1,0.60,0,1,36,Hamilton Ricard
+86,3,Everton,15,MF,0.50,4,0.40,"2,694",0.10,27,0.30,,8,0.10,82,,29,9,sco SCO,0,0.40,1,0,33,Don Hutchison
+87,6,Leicester City,21,MF,0.70,0,0.27,"2,690",0.20,23,0.07,,2,0.20,87,,31,2,tr TUR,0,0.27,0,0,31,Muzzy Izzet
+88,14,Aston Villa,33,FW,1.10,7,0.60,"2,689",0.44,23,0.03,,1,0.47,75,,29,5,eng ENG,1,0.64,0,1,36,Julian Joachim
+89,1,Leicester City,6,DF,0.20,1,0.03,"2,685",0.03,26,0.40,,11,0.03,87,,30,0,jm JAM,0,0.03,1,0,31,Frank Sinclair
+90,9,Wimbledon,23,"FW,MF",0.77,2,0.37,"2,679",0.30,21,0.13,,4,0.30,81,,31,2,jm JAM,0,0.37,0,0,33,Jason Euell
+91,0,Chelsea,6,DF,0.20,0,0.07,"2,679",0.00,28,0.30,,9,0.00,89,,30,2,es ESP,0,0.07,0,0,30,Albert Ferrer
+92,1,West Ham United,12,MF,0.40,0,0.07,"2,673",0.03,24,0.13,,3,0.03,89,,30,1,nir NIR,0,0.07,1,0,30,Steve Lomas
+93,4,Aston Villa,13,MF,0.44,2,0.24,"2,668",0.13,30,0.20,,6,0.13,81,,31,3,eng ENG,0,0.24,0,0,33,Ian Taylor
+94,0,Chelsea,5,"MF,DF",0.17,1,0.03,"2,651",0.00,29,0.17,,5,0.00,86,,30,1,fr FRA,0,0.03,0,0,31,Marcel Desailly
+95,6,Charlton Athletic,23,FW,0.79,2,0.27,"2,633",0.21,28,0.10,,3,0.21,77,,32,2,eng ENG,0,0.27,0,0,34,Andy Hunt
+96,4,Coventry City,21,MF,0.72,3,0.27,"2,627",0.14,22,0.34,,10,0.14,82,,29,4,nl NED,0,0.27,0,0,32,George Boateng
+97,3,Sheffield Wednesday,16,MF,0.55,1,0.21,"2,608",0.10,26,0.00,,0,0.10,82,,31,3,se SWE,0,0.21,0,0,32,Niclas Alexandersson
+98,1,Middlesbrough,8,DF,0.28,1,0.03,"2,596",0.03,30,0.14,,4,0.03,87,,29,0,eng ENG,0,0.03,0,0,30,Steve Vickers
+99,6,Leicester City,24,FW,0.83,1,0.28,"2,589",0.21,20,0.10,,3,0.21,86,,29,2,eng ENG,0,0.28,0,0,30,Emile Heskey
+100,14,Newcastle United,34,FW,1.18,1,0.38,"2,585",0.28,27,0.21,,6,0.49,86,,29,3,eng ENG,7,0.59,0,6,30,Alan Shearer
+101,2,Coventry City,10,"DF,MF",0.35,2,0.10,"2,581",0.07,26,0.38,,11,0.07,81,,30,1,sco SCO,0,0.10,0,0,32,Paul Telfer
+102,7,Liverpool,23,MF,0.80,2,0.52,"2,573",0.24,24,0.14,,4,0.24,80,,30,8,"cs TCH,cz CZE",0,0.52,0,0,32,Patrik Berger
+103,3,Coventry City,17,MF,0.60,0,0.07,"2,571",0.04,33,0.18,,5,0.11,89,,29,1,sco SCO,2,0.14,0,2,29,Gary McAllister
+104,0,Liverpool,8,"DF,MF",0.28,0,0.00,"2,568",0.00,29,0.07,,2,0.00,83,,31,0,ie IRL,0,0.00,0,0,31,Steve Staunton
+105,0,Chelsea,7,DF,0.25,1,0.07,"2,561",0.00,29,0.18,,4,0.00,83,,30,2,eng ENG,0,0.07,1,0,31,Graeme Le Saux
+106,0,Arsenal,8,DF,0.28,0,0.07,"2,555",0.00,34,0.28,,8,0.00,85,,30,2,eng ENG,0,0.07,0,0,30,Nigel Winterburn
+107,2,Everton,15,MF,0.53,2,0.11,"2,548",0.07,23,0.57,,15,0.07,85,,28,1,fr FRA,0,0.11,1,0,30,Olivier Dacourt
+108,0,Leeds United,3,"GK,DF",0.11,0,0.00,"2,537",0.00,29,0.07,,2,0.00,88,,29,0,za RSA,0,0.00,0,0,29,Lucas Radebe
+109,17,Liverpool,38,FW,1.35,0,0.86,"2,526",0.57,18,0.00,,0,0.61,84,,30,8,eng ENG,1,0.89,0,1,30,Michael Owen
+110,0,Derby County,10,MF,0.36,3,0.11,"2,525",0.00,28,0.21,,6,0.00,79,,29,3,no NOR,0,0.11,0,0,32,Lars Bohinen
+111,1,Manchester United,6,DF,0.21,0,0.07,"2,524",0.04,26,0.18,,5,0.04,84,,30,1,nl NED,0,0.07,0,0,30,Jaap Stam
+112,1,Leicester City,8,MF,0.29,5,0.07,"2,509",0.04,23,0.11,,3,0.04,74,,29,1,wal WAL,0,0.07,0,0,34,Robbie Savage
+113,3,Charlton Athletic,16,MF,0.58,1,0.11,"2,501",0.11,33,0.32,,9,0.11,83,,29,0,eng ENG,1,0.11,0,0,30,Neil Redfearn
+114,10,Leicester City,26,FW,0.94,1,0.36,"2,494",0.36,33,0.04,,1,0.36,83,,29,0,eng ENG,0,0.36,0,0,30,Tony Cottee
+115,3,Tottenham Hotspur,18,"MF,FW",0.65,0,0.44,"2,474",0.11,31,0.33,,9,0.11,83,,30,9,fr FRA,0,0.44,0,0,30,David Ginola
+116,5,Derby County,12,DF,0.44,1,0.22,"2,471",0.18,24,0.15,,4,0.18,85,,28,1,ar ARG,0,0.22,0,0,29,Horacio Carbonari
+117,2,Aston Villa,9,MF,0.33,5,0.11,"2,439",0.07,17,0.11,,3,0.07,76,,27,1,eng ENG,0,0.11,0,0,32,Gareth Barry
+118,0,Southampton,4,DF,0.15,1,0.11,"2,439",0.00,27,0.18,,4,0.00,87,,27,3,eng ENG,0,0.11,1,0,28,Jason Dodd
+119,1,Wimbledon,14,MF,0.52,3,0.30,"2,421",0.00,26,0.26,,7,0.04,78,,28,8,nir NIR,1,0.33,0,1,31,Michael Hughes
+120,1,Blackburn Rovers,11,DF,0.41,2,0.07,"2,414",0.04,30,0.26,,7,0.04,83,,27,1,eng ENG,0,0.07,0,0,29,Darren Peacock
+121,3,Blackburn Rovers,15,"MF,FW",0.56,2,0.26,"2,409",0.11,27,0.26,,6,0.11,80,,28,4,eng ENG,0,0.26,1,0,30,Jason Wilcox
+122,12,Arsenal,47,FW,1.76,1,0.82,"2,409",0.37,29,0.19,,5,0.45,83,,28,12,nl NED,4,0.90,0,2,29,Dennis Bergkamp
+123,0,Wimbledon,5,DF,0.19,1,0.00,"2,392",0.00,28,0.00,,0,0.00,85,,27,0,eng ENG,0,0.00,0,0,28,Dean Blackwell
+124,8,Tottenham Hotspur,25,FW,0.94,10,0.38,"2,382",0.30,27,0.15,,3,0.30,70,,24,2,eng ENG,0,0.38,1,0,34,Chris Armstrong
+125,0,Southampton,7,DF,0.27,2,0.04,"2,371",0.00,29,0.08,,2,0.00,82,,27,1,eng ENG,0,0.04,0,0,29,Scott Hiley
+126,0,Coventry City,8,"DF,FW",0.30,0,0.00,"2,367",0.00,34,0.00,,0,0.00,85,,28,0,se SWE,0,0.00,0,0,28,Roland Nilsson
+127,2,West Ham United,9,DF,0.34,0,0.08,"2,366",0.08,30,0.34,,8,0.08,88,,27,0,eng ENG,0,0.08,1,0,27,Neil Ruddock
+128,1,Charlton Athletic,7,DF,0.27,0,0.04,"2,361",0.04,28,0.23,,6,0.04,87,,27,0,eng ENG,0,0.04,0,0,27,Carl Tiler
+129,7,Southampton,28,FW,1.07,7,0.34,"2,361",0.27,26,0.04,,1,0.27,69,,27,2,no NOR,0,0.34,0,0,34,Egil Østenstad
+130,1,Charlton Athletic,5,DF,0.19,0,0.15,"2,359",0.04,23,0.11,,1,0.04,87,,27,3,eng ENG,0,0.15,2,0,27,Richard Rufus
+131,3,West Ham United,18,MF,0.69,2,0.42,"2,358",0.11,26,0.11,,3,0.11,79,,28,8,il ISR,0,0.42,0,0,30,Eyal Berkovic
+132,17,Manchester United,49,FW,1.87,6,0.80,"2,355",0.65,26,0.11,,3,0.65,74,,26,4,eng ENG,0,0.80,0,0,32,Andy Cole
+133,1,Arsenal,4,DF,0.15,0,0.04,"2,340",0.04,31,0.15,,4,0.04,90,,26,0,eng ENG,0,0.04,0,0,26,Tony Adams
+134,0,Nottingham Forest,0,GK,0.00,0,0.00,"2,340",0.00,39,0.04,,1,0.00,90,,26,0,eng ENG,0,0.00,0,0,26,Dave Beasant
+135,0,Liverpool,0,GK,0.00,0,0.00,"2,340",0.00,27,0.04,,1,0.00,90,,26,0,eng ENG,0,0.00,0,0,26,David James
+136,3,Newcastle United,13,DF,0.50,5,0.12,"2,338",0.12,24,0.38,,8,0.12,78,,25,0,gr GRE,0,0.12,2,0,30,Nikos Dabizas
+137,3,Charlton Athletic,10,MF,0.39,3,0.19,"2,336",0.12,26,0.31,,8,0.12,78,,27,2,wal WAL,0,0.19,0,0,30,John Robinson
+138,4,Arsenal,13,"DF,MF",0.50,1,0.27,"2,320",0.16,27,0.39,,8,0.16,86,,26,3,fr FRA,0,0.27,2,0,27,Emmanuel Petit
+139,2,Liverpool,7,"DF,MF",0.27,2,0.16,"2,316",0.08,23,0.08,,2,0.08,80,,27,2,no NOR,0,0.16,0,0,29,Vegard Heggem
+140,2,Chelsea,12,MF,0.47,4,0.23,"2,314",0.08,28,0.35,,9,0.08,77,,26,4,it ITA,0,0.23,0,0,30,Roberto Di Matteo
+141,2,Manchester United,9,DF,0.35,3,0.08,"2,302",0.00,32,0.16,,3,0.08,79,,26,2,ie IRL,3,0.16,1,2,29,Denis Irwin
+142,0,Blackburn Rovers,0,GK,0.00,0,0.00,"2,295",0.00,28,0.12,,3,0.00,88,,26,0,au AUS,0,0.00,0,0,26,John Filan
+143,3,Nottingham Forest,,MF,,0,,"2,283",,26,0.24,,5,0.12,88,,26,,eng ENG,,,1,,26,Steve Stone
+144,3,Chelsea,9,"DF,MF",0.36,2,0.20,"2,281",0.12,19,0.24,,6,0.12,82,,26,2,ng NGA,0,0.20,0,0,28,Celestine Babayaro
+145,1,Everton,5,DF,0.20,1,0.04,"2,275",0.04,24,0.36,,8,0.04,84,,26,0,it ITA,0,0.04,1,0,27,Marco Materazzi
+146,1,Leeds United,8,"DF,MF",0.32,5,0.08,"2,252",0.04,25,0.40,,10,0.04,78,,24,1,no NOR,0,0.08,0,0,29,Alf-Inge Håland
+147,0,Tottenham Hotspur,0,GK,0.00,0,0.00,"2,250",0.00,26,0.04,,1,0.00,90,,25,0,eng ENG,0,0.00,0,0,25,Ian Walker
+148,2,Tottenham Hotspur,14,MF,0.56,4,0.08,"2,250",0.08,27,0.28,,7,0.08,78,,25,0,dk DEN,1,0.08,0,0,29,Allan Nielsen
+149,5,Liverpool,18,MF,0.72,3,0.32,"2,238",0.20,26,0.08,,2,0.20,80,,25,3,eng ENG,0,0.32,0,0,28,Steve McManaman
+150,0,Nottingham Forest,8,DF,0.32,3,0.08,"2,229",0.00,25,0.28,,7,0.00,80,,25,2,jm JAM,0,0.08,0,0,28,Michael Johnson
+151,0,Middlesbrough,3,DF,0.12,0,0.00,"2,222",0.00,33,0.20,,5,0.00,86,,26,0,eng ENG,0,0.00,0,0,26,Gary Pallister
+152,1,Everton,7,MF,0.29,2,0.12,"2,191",0.04,27,0.25,,6,0.04,81,,25,2,sco SCO,0,0.12,0,0,27,Scot Gemmill
+153,4,Southampton,12,FW,0.49,13,0.37,"2,189",0.16,20,0.16,,4,0.16,63,,22,5,eng ENG,0,0.37,0,0,35,James Beattie
+154,2,Middlesbrough,11,DF,0.45,0,0.12,"2,181",0.08,29,0.37,,9,0.08,87,,25,1,it ITA,0,0.12,0,0,25,Gianluca Festa
+155,2,Leeds United,7,DF,0.29,0,0.12,"2,174",0.08,18,0.21,,5,0.08,87,,25,1,eng ENG,0,0.12,0,0,25,Jonathan Woodgate
+156,0,Leicester City,5,DF,0.21,0,0.08,"2,172",0.00,26,0.12,,3,0.00,87,,25,2,eng ENG,0,0.08,0,0,25,Robert Ullathorne
+157,1,Nottingham Forest,8,DF,0.33,4,0.08,"2,167",0.04,32,0.12,,3,0.04,77,,24,1,fr FRA,0,0.08,0,0,28,Thierry Bonalair
+158,4,Chelsea,13,DF,0.54,9,0.42,"2,160",0.17,30,0.33,,8,0.17,68,,23,6,ro ROU,0,0.42,0,0,32,Dan Petrescu
+159,0,Sheffield Wednesday,0,GK,0.00,0,0.00,"2,148",0.00,30,0.08,,1,0.00,90,,24,0,cz CZE,0,0.00,1,0,24,Pavel Srníček
+160,6,Middlesbrough,25,FW,1.05,2,0.34,"2,143",0.25,30,0.08,,2,0.25,82,,24,2,eng ENG,0,0.34,0,0,26,Brian Deane
+161,6,Manchester United,15,MF,0.63,7,0.63,"2,138",0.25,23,0.29,,7,0.25,69,,24,9,eng ENG,0,0.63,0,0,31,Paul Scholes
+162,2,Wimbledon,8,MF,0.34,5,0.13,"2,101",0.09,24,0.39,,9,0.09,75,,23,1,eng ENG,0,0.13,0,0,28,Andy Roberts
+163,0,Liverpool,6,DF,0.26,1,0.09,"2,091",0.00,27,0.26,,6,0.00,84,,24,2,ie IRL,0,0.09,0,0,25,Phil Babb
+164,3,Sheffield Wednesday,9,MF,0.39,2,0.26,"2,090",0.13,26,0.26,,6,0.13,80,,24,3,nir NIR,0,0.26,0,0,26,Danny Sonner
+165,2,Manchester United,8,"DF,MF",0.35,9,0.26,"2,082",0.09,23,0.17,,3,0.09,67,,22,4,eng ENG,0,0.26,1,0,31,Nicky Butt
+166,5,Derby County,22,FW,0.95,6,0.35,"2,077",0.22,25,0.13,,3,0.22,72,,23,3,eng ENG,0,0.35,0,0,29,Dean Sturridge
+167,0,Leicester City,8,"DF,MF",0.35,3,0.04,"2,074",0.00,26,0.09,,2,0.00,80,,23,1,eng ENG,0,0.04,0,0,26,Andy Impey
+168,1,Coventry City,11,MF,0.48,0,0.35,"2,070",0.04,25,0.13,,3,0.04,90,,23,7,eng ENG,0,0.35,0,0,23,Steve Froggatt
+169,2,Aston Villa,6,DF,0.26,2,0.17,"2,065",0.09,25,0.13,,3,0.09,83,,23,2,eng ENG,0,0.17,0,0,25,Ugo Ehiogu
+170,0,Derby County,0,GK,0.00,0,0.00,"2,049",0.00,25,0.13,,2,0.00,89,,23,0,eng ENG,0,0.00,1,0,23,Russell Hoult
+171,0,Aston Villa,0,GK,0.00,0,0.00,"2,037",0.00,24,0.04,,0,0.00,89,,23,0,eng ENG,0,0.00,1,0,23,Michael Oakes
+172,0,Wimbledon,6,DF,0.27,4,0.27,"2,015",0.00,31,0.13,,3,0.00,78,,22,6,eng ENG,0,0.27,0,0,26,Alan Kimble
+173,14,Liverpool,32,FW,1.43,2,0.54,"2,010",0.45,23,0.18,,4,0.63,80,,23,2,eng ENG,4,0.72,0,4,25,Robbie Fowler
+174,0,Blackburn Rovers,5,DF,0.22,1,0.00,"2,004",0.00,27,0.04,,1,0.00,87,,22,0,ie IRL,1,0.00,0,0,23,Jeff Kenna
+175,9,Tottenham Hotspur,23,FW,1.04,5,0.45,"1,994",0.41,21,0.09,,2,0.41,74,,22,1,no NOR,0,0.45,0,0,27,Steffen Iversen
+176,3,Middlesbrough,19,MF,0.86,1,0.23,"1,990",0.14,31,0.54,,12,0.14,77,,25,2,eng ENG,0,0.23,0,0,26,Paul Gascoigne
+177,0,Charlton Athletic,0,GK,0.00,0,0.00,"1,978",0.00,26,0.05,,1,0.00,86,,23,0,au AUS,0,0.00,0,0,23,Saša Ilić
+178,0,Newcastle United,11,MF,0.50,6,0.09,"1,973",0.00,32,0.27,,6,0.00,76,,20,2,eng ENG,0,0.09,0,0,26,Rob Lee
+179,6,Newcastle United,17,MF,0.78,5,0.50,"1,968",0.27,23,0.00,,0,0.27,68,,24,5,pe PER,0,0.50,0,0,29,Nolberto Solano
+180,1,Southampton,4,DF,0.19,0,0.05,"1,940",0.05,33,0.28,,6,0.05,88,,22,0,nl NED,0,0.05,0,0,22,Ken Monkou
+181,1,Derby County,,MF,,2,,"1,922",,24,0.28,,6,0.05,87,,20,,ie IRL,,,0,,22,Lee Carsley
+182,2,Charlton Athletic,4,DF,0.19,1,0.14,"1,907",0.09,28,0.28,,6,0.09,87,,21,1,eng ENG,0,0.14,0,0,22,Eddie Youds
+183,6,Southampton,23,"FW,MF",1.09,10,0.61,"1,905",0.24,29,0.47,,10,0.28,64,,20,8,eng ENG,1,0.66,0,1,30,Matt Le Tissier
+184,11,Chelsea,26,MF,1.23,7,0.61,"1,903",0.52,30,0.19,,4,0.52,68,,21,2,uy URU,0,0.61,0,0,28,Gus Poyet
+185,10,Chelsea,19,FW,0.90,12,0.57,"1,892",0.48,25,0.10,,2,0.48,63,,18,2,no NOR,0,0.57,0,0,30,Tore André Flo
+186,0,Chelsea,12,MF,0.57,1,0.24,"1,890",0.00,31,0.48,,9,0.00,86,,21,5,eng ENG,0,0.24,1,0,22,Dennis Wise
+187,0,Everton,4,DF,0.19,0,0.00,"1,890",0.00,36,0.00,,0,0.00,86,,22,0,eng ENG,0,0.00,0,0,22,Dave Watson
+188,1,Blackburn Rovers,8,MF,0.38,7,0.10,"1,889",0.05,27,0.29,,5,0.05,73,,19,1,ie IRL,0,0.10,1,0,26,Jason McAteer
+189,5,Aston Villa,12,"MF,FW",0.57,5,0.43,"1,889",0.24,30,0.10,,2,0.24,73,,21,4,eng ENG,1,0.43,0,0,26,Paul Merson
+190,1,Coventry City,7,DF,0.33,4,0.10,"1,885",0.05,24,0.14,,3,0.05,75,,21,1,ie IRL,0,0.10,0,0,25,Gary Breen
+191,2,Coventry City,18,MF,0.87,6,0.19,"1,863",0.10,31,0.10,,2,0.10,69,,21,2,no NOR,0,0.19,0,0,27,Trond Egil Soltvedt
+192,0,Derby County,5,MF,0.24,2,0.10,"1,861",0.00,22,0.29,,6,0.00,81,,21,2,ie IRL,0,0.10,0,0,23,Rory Delap
+193,0,Liverpool,5,DF,0.24,3,0.15,"1,858",0.00,28,0.24,,5,0.00,81,,20,3,no NOR,0,0.15,0,0,23,Stig Inge Bjørnebye
+194,0,Everton,6,DF,0.29,0,0.00,"1,845",0.00,30,0.24,,5,0.00,84,,22,0,eng ENG,0,0.00,0,0,22,Craig Short
+195,4,Newcastle United,11,MF,0.54,1,0.29,"1,843",0.20,24,0.34,,6,0.20,80,,22,2,de GER,0,0.29,1,0,23,Dietmar Hamann
+196,9,West Ham United,24,FW,1.18,2,0.59,"1,829",0.44,34,0.49,,9,0.44,83,,20,3,eng ENG,0,0.59,1,0,22,Ian Wright
+197,0,Coventry City,4,DF,0.20,0,0.00,"1,829",0.00,29,0.34,,7,0.00,80,,23,0,eng ENG,0,0.00,0,0,23,David Burrows
+198,9,Nottingham Forest,22,FW,1.09,11,0.55,"1,815",0.45,24,0.05,,1,0.45,59,,20,2,sco SCO,0,0.55,0,0,31,Dougie Freedman
+199,0,Coventry City,5,DF,0.25,2,0.00,"1,815",0.00,27,0.15,,3,0.00,83,,20,0,eng ENG,0,0.00,0,0,22,Paul Williams
+200,0,Southampton,2,DF,0.10,4,0.05,"1,805",0.00,29,0.10,,2,0.00,79,,19,1,eng ENG,0,0.05,0,0,23,Francis Benali
+201,0,Manchester United,5,"DF,MF",0.25,9,0.10,"1,797",0.00,21,0.20,,4,0.00,64,,19,2,eng ENG,0,0.10,0,0,28,Phil Neville
+202,3,Nottingham Forest,11,"MF,DF",0.55,4,0.20,"1,794",0.15,24,0.20,,4,0.15,75,,20,1,eng ENG,0,0.20,0,0,24,Chris Bart-Williams
+203,5,Tottenham Hotspur,19,FW,0.97,2,0.36,"1,765",0.25,31,0.25,,5,0.25,74,,22,2,eng ENG,0,0.36,0,0,24,Les Ferdinand
+204,2,Aston Villa,10,MF,0.51,5,0.20,"1,764",0.10,24,0.31,,6,0.10,71,,20,2,eng ENG,1,0.20,0,0,25,Alan Thompson
+205,3,Manchester United,11,DF,0.56,3,0.20,"1,763",0.15,29,0.10,,2,0.15,80,,19,1,no NOR,0,0.20,0,0,22,Ronny Johnsen
+206,5,Liverpool,16,FW,0.82,18,0.31,"1,746",0.26,32,0.36,,7,0.26,51,,16,1,de GER,0,0.31,0,0,34,Karl-Heinz Riedle
+207,6,Nottingham Forest,25,FW,1.29,2,0.52,"1,743",0.31,28,0.31,,5,0.31,83,,19,4,nl NED,0,0.52,1,0,21,Pierre van Hooijdonk
+208,2,Southampton,9,MF,0.47,1,0.21,"1,725",0.10,20,0.10,,2,0.10,78,,21,2,eng ENG,0,0.21,0,0,22,Matt Oakley
+209,3,Manchester United,14,"MF,FW",0.73,4,0.31,"1,722",0.16,24,0.05,,1,0.16,72,,20,3,wal WAL,0,0.31,0,0,24,Ryan Giggs
+210,0,Nottingham Forest,6,"DF,MF",0.32,2,0.00,"1,710",0.00,23,0.11,,2,0.00,78,,20,0,eng ENG,0,0.00,0,0,22,Craig Armstrong
+211,1,Blackburn Rovers,10,"MF,FW",0.53,5,0.21,"1,709",0.05,23,0.21,,3,0.05,74,,18,3,nir NIR,0,0.21,1,0,23,Keith Gillespie
+212,1,Everton,8,MF,0.42,1,0.05,"1,706",0.05,30,0.21,,4,0.05,85,,19,0,sco SCO,1,0.05,0,0,20,John Collins
+213,2,Derby County,8,DF,0.43,3,0.11,"1,694",0.05,27,0.32,,6,0.11,74,,20,1,de GER,2,0.16,0,1,23,Stefan Schnoor
+214,8,Charlton Athletic,21,FW,1.12,6,0.43,"1,688",0.27,29,0.00,,0,0.43,68,,19,3,eng ENG,3,0.59,0,3,25,Clive Mendonca
+215,0,Chelsea,4,DF,0.21,7,0.00,"1,685",0.00,22,0.43,,8,0.00,67,,18,0,eng ENG,0,0.00,0,0,25,Michael Duberry
+216,0,Newcastle United,4,DF,0.22,6,0.05,"1,656",0.00,29,0.16,,3,0.00,72,,17,1,eng ENG,0,0.05,0,0,23,Warren Barton
+217,6,Southampton,16,MF,0.88,4,0.38,"1,643",0.33,25,0.27,,5,0.33,75,,18,1,ma MAR,0,0.38,0,0,22,Hassan Kachloul
+218,0,Aston Villa,1,DF,0.05,1,0.00,"1,640",0.00,33,0.27,,4,0.00,82,,19,0,sco SCO,0,0.00,1,0,20,Colin Calderwood
+219,3,Everton,13,"MF,FW",0.72,4,0.39,"1,635",0.17,24,0.22,,4,0.17,68,,20,4,eng ENG,0,0.39,0,0,24,Nick Barmby
+220,1,Manchester United,7,"MF,DF",0.39,5,0.28,"1,635",0.06,24,0.11,,2,0.06,65,,20,4,se SWE,0,0.28,0,0,25,Jesper Blomqvist
+221,0,Coventry City,4,DF,0.22,6,0.00,"1,617",0.00,25,0.17,,3,0.00,74,,16,0,eng ENG,0,0.00,0,0,22,Marc Edworthy
+222,3,Leicester City,8,DF,0.45,5,0.17,"1,594",0.17,33,0.11,,2,0.17,73,,17,0,eng ENG,0,0.17,0,0,22,Steve Walsh
+223,1,Liverpool,6,"DF,MF",0.34,4,0.17,"1,588",0.06,24,0.17,,2,0.06,79,,16,2,sco SCO,0,0.17,1,0,20,Dominic Matteo
+224,1,Blackburn Rovers,6,"FW,MF",0.34,10,0.17,"1,585",0.06,19,0.00,,0,0.06,57,,18,2,ie IRL,0,0.17,0,0,28,Damien Duff
+225,3,Newcastle United,10,MF,0.57,4,0.28,"1,585",0.17,22,0.00,,0,0.17,72,,18,2,sco SCO,0,0.28,0,0,22,Stephen Glass
+226,0,Derby County,4,MF,0.23,7,0.12,"1,556",0.00,31,0.23,,4,0.00,62,,18,2,it ITA,1,0.12,0,0,25,Stefano Eranio
+227,5,Blackburn Rovers,11,FW,0.65,0,0.41,"1,530",0.29,27,0.18,,3,0.29,90,,17,2,eng ENG,0,0.41,0,0,17,Ashley Ward
+228,4,Everton,21,FW,1.24,19,0.35,"1,524",0.24,18,0.35,,6,0.24,51,,11,2,eng ENG,0,0.35,0,0,30,Danny Cadamarteri
+229,3,Tottenham Hotspur,10,MF,0.60,3,0.18,"1,512",0.18,30,0.06,,1,0.18,76,,17,0,ms MSR,0,0.18,0,0,20,Ruel Fox
+230,0,Wimbledon,6,MF,0.36,7,0.18,"1,503",0.00,25,0.00,,0,0.00,65,,16,3,eng ENG,0,0.18,0,0,23,Neal Ardley
+231,0,Middlesbrough,9,DF,0.54,2,0.18,"1,493",0.00,18,0.18,,3,0.00,79,,17,3,sco SCO,0,0.18,0,0,19,Robbie Stockdale
+232,5,West Ham United,11,"FW,MF",0.66,4,0.36,"1,491",0.30,30,0.18,,3,0.30,71,,17,1,fr FRA,0,0.36,0,0,21,Marc Keller
+233,0,Leeds United,5,MF,0.30,2,0.00,"1,481",0.00,29,0.49,,8,0.00,82,,16,0,eng ENG,0,0.00,0,0,18,David Batty
+234,0,Tottenham Hotspur,6,MF,0.36,0,0.00,"1,481",0.00,28,0.36,,6,0.00,87,,17,0,de GER,0,0.00,0,0,17,Steffen Freund
+235,1,Derby County,6,DF,0.37,1,0.12,"1,476",0.00,32,0.18,,3,0.06,82,,17,2,eng ENG,1,0.18,0,1,18,Tony Dorigo
+236,8,West Ham United,21,FW,1.28,2,0.61,"1,475",0.49,30,0.06,,0,0.49,78,,17,2,it ITA,0,0.61,1,0,19,Paolo Di Canio
+237,0,Everton,3,DF,0.18,2,0.00,"1,470",0.00,27,0.31,,4,0.00,82,,16,0,sco SCO,0,0.00,1,0,18,Alec Cleland
+238,2,Leeds United,10,DF,0.61,0,0.12,"1,469",0.12,29,0.25,,4,0.12,86,,17,0,nl NED,0,0.12,0,0,17,Robert Molenaar
+239,3,Blackburn Rovers,13,"FW,DF",0.80,0,0.25,"1,461",0.06,25,0.62,,9,0.18,86,,17,3,eng ENG,2,0.37,1,2,17,Chris Sutton
+240,7,Leeds United,16,"FW,MF",0.99,7,0.43,"1,460",0.43,17,0.37,,6,0.43,66,,15,0,eng ENG,0,0.43,0,0,22,Alan Smith
+241,4,West Ham United,,FW,,1,,"1,444",,23,0.19,,3,0.25,85,,16,1,wal WAL,,0.31,0,,17,John Hartson
+242,4,Everton,15,FW,0.94,6,0.31,"1,439",0.25,21,0.19,,3,0.25,63,,17,1,ci CIV,1,0.31,0,0,23,Ibrahima Bakayoko
+243,0,Leeds United,6,DF,0.38,7,0.13,"1,434",0.00,27,0.19,,3,0.00,68,,14,2,eng ENG,0,0.13,0,0,21,David Wetherall
+244,0,Leicester City,3,DF,0.19,4,0.00,"1,419",0.00,29,0.00,,0,0.00,75,,15,0,se SWE,0,0.00,0,0,19,Pontus Kåmark
+245,0,Southampton,8,DF,0.51,8,0.00,"1,411",0.00,17,0.00,,0,0.00,61,,15,0,eng ENG,0,0.00,0,0,23,Wayne Bridge
+246,1,Nottingham Forest,5,DF,0.32,1,0.06,"1,410",0.06,26,0.19,,3,0.06,83,,16,0,no NOR,0,0.06,0,0,17,Jon Olav Hjelde
+247,0,Nottingham Forest,2,DF,0.13,1,0.06,"1,408",0.00,22,0.45,,6,0.00,88,,15,1,fr FRA,0,0.06,1,0,16,Matthieu Louis-Jean
+248,0,Derby County,0,GK,0.00,2,0.00,"1,401",0.00,26,0.00,,0,0.00,82,,15,0,ee EST,0,0.00,0,0,17,Mart Poom
+249,2,Aston Villa,5,"MF,DF",0.32,2,0.13,"1,386",0.13,23,0.19,,3,0.13,77,,16,0,eng ENG,0,0.13,0,0,18,Riccardo Scimeca
+250,0,Southampton,11,"FW,MF",0.72,6,0.13,"1,375",0.00,30,0.07,,1,0.00,63,,16,2,eng ENG,0,0.13,0,0,22,Stuart Ripley
+251,1,Blackburn Rovers,6,MF,0.39,7,0.13,"1,371",0.07,19,0.20,,3,0.07,65,,14,1,nir NIR,0,0.13,0,0,21,Damien Johnson
+252,1,Southampton,5,DF,0.33,0,0.07,"1,370",0.07,32,0.26,,4,0.07,86,,16,0,fr FRA,0,0.07,0,0,16,Patrick Colleter
+253,0,Aston Villa,0,GK,0.00,0,0.00,"1,350",0.00,26,0.07,,1,0.00,90,,15,0,au AUS,0,0.00,0,0,15,Mark Bosnich
+254,3,Charlton Athletic,7,FW,0.47,3,0.27,"1,342",0.20,27,0.07,,1,0.20,75,,15,1,se SWE,0,0.27,0,0,18,Martin Pringle
+255,5,Newcastle United,16,MF,1.09,12,0.68,"1,325",0.34,30,0.14,,2,0.34,51,,14,5,ge GEO,0,0.68,0,0,26,Temur Ketsbaia
+256,1,Leicester City,7,MF,0.48,4,0.27,"1,317",0.07,26,0.27,,4,0.07,66,,16,3,gr GRE,0,0.27,0,0,20,Theodoros Zagorakis
+257,0,Sheffield Wednesday,0,GK,0.00,1,0.00,"1,292",0.00,30,0.00,,0,0.00,86,,14,0,eng ENG,0,0.00,0,0,15,Kevin Pressman
+258,2,Leeds United,9,DF,0.63,3,0.14,"1,289",0.14,32,0.00,,0,0.14,76,,14,0,no NOR,0,0.14,0,0,17,Gunnar Halle
+259,0,Arsenal,0,DF,0.00,5,0.07,"1,288",0.00,35,0.21,,3,0.00,68,,14,1,eng ENG,0,0.07,0,0,19,Steve Bould
+260,0,Tottenham Hotspur,2,DF,0.14,1,0.00,"1,279",0.00,19,0.35,,5,0.00,85,,14,0,eng ENG,0,0.00,0,0,15,Luke Young
+261,0,Everton,4,DF,0.28,1,0.00,"1,264",0.00,18,0.57,,7,0.00,79,,15,0,ie IRL,0,0.00,1,0,16,Richard Dunne
+262,0,Newcastle United,7,DF,0.50,0,0.07,"1,260",0.00,20,0.07,,1,0.00,90,,14,1,fr FRA,0,0.07,0,0,14,Didier Domi
+263,1,Charlton Athletic,6,MF,0.43,9,0.14,"1,254",0.07,32,0.00,,0,0.07,57,,13,1,eng ENG,0,0.14,0,0,22,Keith Jones
+264,0,Wimbledon,8,FW,0.58,8,0.07,"1,250",0.00,29,0.14,,1,0.00,57,,14,1,eng ENG,0,0.07,1,0,22,Carl Leaburn
+265,0,Charlton Athletic,2,DF,0.14,5,0.00,"1,248",0.00,26,0.07,,1,0.00,69,,13,0,eng ENG,0,0.00,0,0,18,Steve Brown
+266,2,Southampton,6,MF,0.43,0,0.14,"1,246",0.14,29,0.36,,5,0.14,89,,14,0,eng ENG,0,0.14,0,0,14,Chris Marsden
+267,0,Blackburn Rovers,5,DF,0.36,3,0.07,"1,244",0.00,24,0.00,,0,0.00,73,,14,1,sco SCO,0,0.07,0,0,17,Christian Dailly
+268,0,West Ham United,4,DF,0.29,1,0.00,"1,242",0.00,26,0.14,,2,0.00,83,,14,0,eng ENG,0,0.00,0,0,15,Scott Minto
+269,1,Chelsea,3,MF,0.22,4,0.22,"1,236",0.07,19,0.29,,4,0.07,69,,14,2,eng ENG,0,0.22,0,0,18,Jody Morris
+270,5,Chelsea,12,MF,0.88,10,0.51,"1,233",0.36,29,0.15,,2,0.36,54,,13,2,dk DEN,0,0.51,0,0,23,Bjarne Goldbæk
+271,9,Derby County,16,FW,1.18,7,0.66,"1,225",0.66,21,0.22,,3,0.66,58,,14,0,jm JAM,0,0.66,0,0,21,Deon Burton
+272,4,Derby County,10,FW,0.74,5,0.22,"1,214",0.15,30,0.15,,2,0.30,55,,17,1,it ITA,2,0.37,0,2,22,Francesco Baiano
+273,0,Tottenham Hotspur,3,DF,0.22,2,0.07,"1,213",0.00,28,0.30,,3,0.00,76,,14,1,eng ENG,0,0.07,1,0,16,Justin Edinburgh
+274,0,Blackburn Rovers,4,MF,0.30,1,0.00,"1,203",0.00,29,0.30,,4,0.00,80,,14,0,sco SCO,0,0.00,0,0,15,Billy McKinlay
+275,3,West Ham United,13,FW,0.98,4,0.53,"1,199",0.23,27,0.15,,2,0.23,71,,13,4,eng ENG,0,0.53,0,0,17,Paul Kitson
+276,0,Leeds United,3,DF,0.23,0,0.08,"1,195",0.00,25,0.23,,3,0.00,85,,14,1,at AUT,0,0.08,0,0,14,Martin Hiden
+277,0,Newcastle United,4,DF,0.30,0,0.00,"1,190",0.00,26,0.08,,1,0.00,85,,14,0,eng ENG,0,0.00,0,0,14,Steve Howey
+278,2,Tottenham Hotspur,8,DF,0.61,3,0.15,"1,185",0.15,27,0.15,,2,0.15,74,,13,0,ch SUI,0,0.15,0,0,16,Ramon Vega
+279,2,Aston Villa,10,MF,0.77,10,0.15,"1,175",0.15,27,0.31,,4,0.15,51,,13,0,eng ENG,0,0.15,0,0,23,Mark Draper
+280,0,Tottenham Hotspur,6,MF,0.46,10,0.00,"1,174",0.00,32,0.23,,3,0.00,53,,12,0,eng ENG,0,0.00,0,0,22,Andy Sinton
+281,0,Newcastle United,5,DF,0.38,0,0.00,"1,171",0.00,19,0.00,,0,0.00,84,,14,0,eng ENG,0,0.00,0,0,14,Andy Griffin
+282,0,Derby County,4,DF,0.31,0,0.15,"1,169",0.00,30,0.46,,6,0.00,84,,14,2,hr CRO,0,0.15,0,0,14,Igor Štimac
+283,4,Everton,,FW,,0,,"1,168",,26,0.23,,3,0.31,90,,13,,sco SCO,,,0,,13,Duncan Ferguson
+284,1,Nottingham Forest,11,FW,0.85,8,0.23,"1,166",0.08,23,0.00,,0,0.08,58,,12,2,eng ENG,0,0.23,0,0,20,Neil Shipperley
+285,1,Middlesbrough,5,DF,0.39,2,0.23,"1,156",0.08,29,0.16,,2,0.08,83,,12,2,ie IRL,0,0.23,0,0,14,Curtis Fleming
+286,0,Chelsea,3,DF,0.23,5,0.00,"1,155",0.00,27,0.23,,3,0.00,68,,12,0,fr FRA,0,0.00,0,0,17,Bernard Lambourde
+287,0,West Ham United,2,MF,0.16,0,0.00,"1,151",0.00,23,0.63,,8,0.00,89,,13,0,cm CMR,0,0.00,0,0,13,Marc-Vivien Foé
+288,1,Aston Villa,12,FW,0.94,9,0.31,"1,147",0.08,27,0.63,,7,0.08,57,,11,3,eng ENG,0,0.31,1,0,20,Stan Collymore
+289,0,Arsenal,1,DF,0.08,13,0.00,"1,144",0.00,28,0.39,,5,0.00,50,,10,0,ar ARG,0,0.00,0,0,23,Nelson Vivas
+290,1,Nottingham Forest,9,FW,0.72,12,0.16,"1,122",0.08,18,0.40,,5,0.08,49,,11,1,eng ENG,0,0.16,0,0,23,Marlon Harewood
+291,0,Newcastle United,4,DF,0.33,2,0.08,"1,105",0.00,18,0.08,,1,0.00,79,,12,1,nir NIR,0,0.08,0,0,14,Aaron Hughes
+292,7,Wimbledon,14,FW,1.16,11,0.58,"1,090",0.58,31,0.08,,1,0.58,50,,11,0,ng NGA,0,0.58,0,0,22,Efan Ekoku
+293,0,Manchester United,4,DF,0.33,6,0.25,"1,083",0.00,28,0.08,,1,0.00,68,,10,3,no NOR,0,0.25,0,0,16,Henning Berg
+294,0,Newcastle United,2,DF,0.17,0,0.00,"1,080",0.00,36,0.17,,1,0.00,90,,12,0,eng ENG,0,0.00,1,0,12,Stuart Pearce
+295,0,Nottingham Forest,0,GK,0.00,0,0.00,"1,080",0.00,29,0.00,,0,0.00,90,,12,0,wal WAL,0,0.00,0,0,12,Mark Crossley
+296,0,Tottenham Hotspur,0,GK,0.00,0,0.00,"1,080",0.00,20,0.00,,0,0.00,90,,12,0,no NOR,0,0.00,0,0,12,Espen Baardsen
+297,0,Liverpool,0,GK,0.00,0,0.00,"1,080",0.00,27,0.00,,0,0.00,90,,12,0,us USA,0,0.00,0,0,12,Brad Friedel
+298,2,Nottingham Forest,5,FW,0.42,2,0.34,"1,073",0.17,23,0.25,,3,0.17,67,,14,2,,0,0.34,0,0,16,Jean-Claude Darcheville
+299,0,Tottenham Hotspur,1,DF,0.08,1,0.00,"1,072",0.00,25,0.25,,2,0.00,83,,12,0,ar ARG,0,0.00,1,0,13,Mauricio Taricco
+300,0,Everton,3,DF,0.25,3,0.08,"1,066",0.00,28,0.17,,2,0.00,76,,11,1,sco SCO,0,0.08,0,0,14,David Weir
+301,0,West Ham United,3,DF,0.25,8,0.00,"1,061",0.00,31,0.34,,4,0.00,56,,11,0,us USA,0,0.00,0,0,19,Steve Potts
+302,0,Middlesbrough,9,"DF,MF",0.76,10,0.17,"1,060",0.00,28,0.08,,1,0.00,53,,10,2,eng ENG,0,0.17,0,0,20,Neil Maddison
+303,0,Charlton Athletic,4,MF,0.34,3,0.00,"1,060",0.00,22,0.17,,2,0.00,66,,13,0,eng ENG,0,0.00,0,0,16,Shaun Newton
+304,1,Blackburn Rovers,15,FW,1.28,12,0.26,"1,056",0.09,21,0.43,,5,0.09,50,,9,2,eng ENG,0,0.26,0,0,21,Kevin Davies
+305,0,Everton,2,MF,0.17,3,0.00,"1,055",0.00,23,0.00,,0,0.00,66,,13,0,eng ENG,0,0.00,0,0,16,Tony Grant
+306,5,Blackburn Rovers,10,"MF,FW",0.86,3,0.51,"1,049",0.43,31,0.00,,0,0.43,66,,13,1,sco SCO,1,0.51,0,0,16,Kevin Gallacher
+307,0,West Ham United,6,"MF,DF",0.53,4,0.09,"1,020",0.00,25,0.26,,3,0.00,68,,11,1,au AUS,0,0.09,0,0,15,Stan Lazaridis
+308,1,Charlton Athletic,9,FW,0.80,19,0.45,"1,007",0.09,28,0.36,,3,0.09,39,,7,4,eng ENG,0,0.45,1,0,26,Steve Jones
+309,0,Nottingham Forest,4,MF,0.36,3,,"1,002",,20,0.36,,4,0.00,67,,12,1,sco SCO,,0.09,0,,15,Nigel Quashie
+310,0,Leeds United,2,MF,0.18,6,0.00,998,0.00,18,0.00,,0,0.00,59,,11,0,ie IRL,0,0.00,0,0,17,Stephen McPhail
+311,0,Blackburn Rovers,4,DF,0.36,5,0.00,992,0.00,20,0.36,,3,0.00,71,,9,0,eng ENG,0,0.00,1,0,14,Marlon Broomes
+312,3,Leeds United,12,FW,1.11,7,0.56,971,0.28,24,0.46,,5,0.28,54,,11,3,nl NED,0,0.56,0,0,18,Clyde Wijnhard
+313,7,Everton,13,FW,1.21,4,1.02,968,0.65,17,0.00,,0,0.65,65,,11,4,eng ENG,0,1.02,0,0,15,Francis Jeffers
+314,0,Manchester United,2,DF,0.19,3,0.00,947,0.00,18,0.10,,1,0.00,68,,11,0,eng ENG,0,0.00,0,0,14,Wes Brown
+315,0,Blackburn Rovers,0,GK,0.00,1,0.00,945,0.00,31,0.00,,0,0.00,86,,10,0,eng ENG,0,0.00,0,0,11,Tim Flowers
+316,1,Sheffield Wednesday,8,"FW,MF,DF",0.77,9,0.29,930,0.10,20,0.10,,1,0.10,49,,10,2,eng ENG,0,0.29,0,0,19,Ritchie Humphreys
+317,2,Newcastle United,9,FW,0.88,4,0.29,921,0.20,24,0.00,,0,0.20,61,,11,1,se SWE,0,0.29,0,0,15,Andreas Andersson
+318,1,Blackburn Rovers,5,MF,0.49,4,0.20,912,0.10,18,0.20,,2,0.10,65,,10,1,eng ENG,0,0.20,0,0,14,David Dunn
+319,0,Liverpool,3,DF,0.30,3,0.10,903,0.00,22,0.30,,3,0.00,70,,10,1,cm CMR,0,0.10,0,0,13,Rigobert Song
+320,3,Coventry City,,"FW,DF",,0,,900,,29,0.10,,1,0.30,90,,10,,eng ENG,,,0,,10,Dion Dublin
+321,1,Arsenal,10,"MF,FW",1.01,6,0.10,888,0.10,21,0.41,,4,0.10,56,,10,0,se SWE,0,0.10,0,0,16,Freddie Ljungberg
+322,3,Blackburn Rovers,10,FW,1.04,2,0.31,867,0.31,26,0.00,,0,0.31,79,,9,0,wal WAL,0,0.31,0,0,11,Nathan Blake
+323,1,Derby County,7,FW,0.73,21,0.21,861,0.10,22,0.10,,1,0.10,32,,6,1,sco SCO,0,0.21,0,0,27,Kevin Harper
+324,12,Manchester United,21,FW,2.20,10,1.36,859,1.26,25,0.00,,0,1.26,45,,9,1,no NOR,0,1.36,0,0,19,Ole Gunnar Solskjær
+325,0,Blackburn Rovers,2,DF,0.21,2,0.00,855,0.00,24,0.11,,1,0.00,71,,10,0,eng ENG,0,0.00,0,0,12,Gary Croft
+326,1,Aston Villa,3,DF,0.32,1,0.11,846,0.11,28,0.00,,0,0.11,77,,10,0,eng ENG,0,0.11,0,0,11,Gary Charles
+327,1,Charlton Athletic,5,MF,0.54,7,0.32,838,0.11,30,0.11,,1,0.11,49,,10,2,eng ENG,1,0.32,0,0,17,Paul Mortimer
+328,0,Leicester City,4,DF,0.44,6,0.22,823,0.00,27,0.33,,3,0.00,55,,9,2,nir NIR,0,0.22,0,0,15,Gerry Taggart
+329,0,Tottenham Hotspur,5,MF,0.55,9,0.00,817,0.00,20,0.11,,1,0.00,45,,9,0,eng ENG,0,0.00,0,0,18,Stephen Clemence
+330,0,West Ham United,0,DF,0.00,0,0.00,810,0.00,29,0.22,,2,0.00,90,,9,0,eng ENG,0,0.00,0,0,9,Julian Dicks
+331,3,Charlton Athletic,6,"FW,MF",0.67,0,0.22,810,0.22,27,0.22,,2,0.33,90,,9,0,eng ENG,1,0.33,0,1,9,Graham Stuart
+332,1,Wimbledon,2,MF,0.22,5,0.22,808,0.11,27,0.56,,5,0.11,62,,8,1,wal WAL,0,0.22,0,0,13,Ceri Hughes
+333,0,Sheffield Wednesday,0,DF,0.00,3,0.00,801,0.00,23,0.45,,3,0.00,73,,8,0,rs SRB,0,0.00,1,0,11,Dejan Stefanović
+334,1,Chelsea,4,FW,0.46,0,0.23,789,0.11,34,0.46,,3,0.11,88,,9,1,it ITA,0,0.23,1,0,9,Gianluca Vialli
+335,0,Derby County,2,DF,0.23,4,0.00,778,0.00,19,0.35,,3,0.00,71,,7,0,eng ENG,0,0.00,0,0,11,Steve Elliott
+336,0,Nottingham Forest,3,DF,0.36,5,0.00,758,0.00,22,0.00,,0,0.00,63,,7,0,wal WAL,0,0.00,0,0,12,Christian Edwards
+337,2,Manchester United,14,FW,1.68,10,0.60,748,0.24,32,0.48,,4,0.24,44,,7,3,eng ENG,0,0.60,0,0,17,Teddy Sheringham
+338,5,Coventry City,16,FW,1.99,9,0.87,724,0.62,22,0.12,,0,0.62,45,,7,2,au AUS,0,0.87,1,0,16,John Aloisi
+339,1,Chelsea,4,FW,0.50,0,0.25,724,0.12,29,0.25,,2,0.12,72,,10,1,it ITA,0,0.25,0,0,10,Pierluigi Casiraghi
+340,2,Blackburn Rovers,5,MF,0.62,0,0.50,720,0.25,25,0.37,,3,0.25,90,,8,2,eng ENG,0,0.50,0,0,8,Garry Flitcroft
+341,9,Everton,14,FW,1.82,0,1.43,692,1.17,28,0.13,,1,1.17,87,,8,2,eng ENG,0,1.43,0,0,8,Kevin Campbell
+342,0,West Ham United,6,MF,0.78,8,0.00,690,0.00,31,1.17,,8,0.00,49,,6,0,eng ENG,0,0.00,1,0,14,John Moncur
+343,0,Charlton Athletic,0,GK,0.00,0,0.00,675,0.00,26,0.00,,0,0.00,84,,8,0,eng ENG,0,0.00,0,0,8,Simon Royce
+344,0,Newcastle United,0,GK,0.00,1,0.00,675,0.00,23,0.00,,0,0.00,84,,7,0,eng ENG,0,0.00,0,0,8,Steve Harper
+345,3,Blackburn Rovers,8,FW,1.07,1,0.80,674,0.40,20,0.00,,0,0.40,61,,10,3,eng ENG,0,0.80,0,0,11,Matt Jansen
+346,1,Sheffield Wednesday,5,"DF,MF",0.67,11,0.13,673,0.13,22,0.13,,1,0.13,42,,5,0,eng ENG,0,0.13,0,0,16,Lee Briscoe
+347,0,Wimbledon,3,"DF,MF",0.40,10,0.13,670,0.00,22,0.00,,0,0.00,39,,7,1,ie IRL,0,0.13,0,0,17,Mark Kennedy
+348,0,Middlesbrough,5,MF,0.68,4,0.00,664,0.00,21,0.54,,4,0.00,60,,7,0,eng ENG,0,0.00,0,0,11,Mark Summerbell
+349,0,Newcastle United,6,MF,0.82,1,0.14,660,0.00,23,0.14,,1,0.00,66,,9,1,hr CRO,0,0.14,0,0,10,Silvio Marić
+350,1,Liverpool,4,MF,0.55,2,0.14,653,0.14,27,0.00,,0,0.14,73,,7,0,no NOR,0,0.14,0,0,9,Øyvind Leonhardsen
+351,3,Wimbledon,9,FW,1.24,10,0.41,652,0.41,20,0.14,,1,0.41,41,,6,0,gy GUY,0,0.41,0,0,16,Carl Cort
+352,1,Southampton,3,MF,0.42,1,0.14,639,0.14,30,0.14,,1,0.14,71,,8,0,eng ENG,0,0.14,0,0,9,David Howells
+353,3,Leicester City,5,"FW,DF",0.71,4,0.43,635,0.43,32,0.00,,0,0.43,64,,6,0,eng ENG,0,0.43,0,0,10,Ian Marshall
+354,0,Leeds United,0,DF,0.00,2,0.00,631,0.00,23,0.43,,2,0.00,70,,7,0,eng ENG,0,0.00,1,0,9,Danny Granville
+355,0,Charlton Athletic,0,GK,0.00,3,0.00,631,0.00,28,0.14,,1,0.00,63,,7,0,au AUS,0,0.00,0,0,10,Andy Petterson
+356,1,Arsenal,1,MF,0.14,10,0.43,631,0.14,21,0.29,,2,0.14,45,,4,2,eng ENG,0,0.43,0,0,14,Stephen Hughes
+357,0,Southampton,0,GK,0.00,0,0.00,630,0.00,23,0.00,,0,0.00,90,,7,0,,0,0.00,0,0,7,Neil Moss
+358,0,Chelsea,3,"MF,FW",0.43,0,0.14,630,0.00,29,0.00,,0,0.00,90,,7,1,dk DEN,0,0.14,0,0,7,Brian Laudrup
+359,0,Sheffield Wednesday,2,DF,0.29,2,0.00,625,0.00,22,0.29,,2,0.00,69,,7,0,ar ARG,0,0.00,0,0,9,Juan Cobián
+360,0,Tottenham Hotspur,0,DF,0.00,0,0.00,610,0.00,32,0.15,,1,0.00,87,,7,0,eng ENG,0,0.00,0,0,7,John Scales
+361,1,Newcastle United,3,FW,0.45,6,0.30,602,0.15,19,0.15,,1,0.15,55,,5,1,fr FRA,0,0.30,0,0,11,Louis Saha
+362,0,Newcastle United,0,"DF,MF",0.00,3,0.00,589,0.00,26,0.31,,2,0.00,59,,7,0,gr GRE,0,0.00,0,0,10,Georgios Georgiadis
+363,0,Nottingham Forest,0,DF,0.00,0,0.00,588,0.00,36,0.61,,3,0.00,84,,7,0,sco SCO,0,0.00,1,0,7,Richard Gough
+364,1,Leeds United,6,MF,0.95,6,0.16,570,0.16,22,0.16,,1,0.16,44,,7,0,pt POR,0,0.16,0,0,13,Bruno Ribeiro
+365,1,Blackburn Rovers,5,MF,0.80,5,0.16,566,0.16,26,0.64,,4,0.16,57,,5,0,it ITA,0,0.16,0,0,10,Dario Marcolin
+366,1,Newcastle United,5,FW,0.80,5,0.16,566,0.16,21,0.16,,1,0.16,52,,6,0,sco SCO,0,0.16,0,0,11,Paul Dalglish
+367,2,Middlesbrough,6,MF,0.96,11,0.32,561,0.32,22,0.32,,1,0.32,35,,5,0,eng ENG,0,0.32,1,0,16,Phil Stamp
+368,6,Arsenal,9,FW,1.49,7,1.33,542,1.00,21,0.00,,0,1.00,45,,5,2,ng NGA,0,1.33,0,0,12,Nwankwo Kanu
+369,0,Arsenal,0,GK,0.00,0,0.00,540,0.00,21,0.17,,1,0.00,90,,6,0,at AUT,0,0.00,0,0,6,Alex Manninger
+370,0,Aston Villa,1,DF,0.17,11,0.00,531,0.00,28,0.34,,2,0.00,35,,4,0,eng ENG,0,0.00,0,0,15,Simon Grayson
+371,1,Everton,4,MF,0.68,3,0.17,530,0.17,19,0.17,,1,0.17,59,,6,0,wal WAL,0,0.17,0,0,9,John Oster
+372,0,Tottenham Hotspur,1,DF,0.17,0,0.00,518,0.00,28,0.35,,1,0.00,86,,6,0,it ITA,0,0.00,1,0,6,Paolo Tramezzani
+373,0,Coventry City,3,"DF,MF",0.52,6,0.35,515,0.00,24,0.17,,1,0.00,43,,6,2,be BEL,0,0.35,0,0,12,Philippe Clement
+374,0,Arsenal,2,"MF,DF",0.35,4,0.00,513,0.00,32,0.35,,2,0.00,51,,6,0,fr FRA,0,0.00,0,0,10,Rémi Garde
+375,0,Coventry City,2,DF,0.35,1,0.00,512,0.00,19,0.18,,1,0.00,73,,6,0,ie IRL,0,0.00,0,0,7,Barry Quinn
+376,0,Nottingham Forest,0,DF,0.00,5,0.00,481,0.00,26,0.19,,1,0.00,48,,5,0,eng ENG,0,0.00,0,0,10,Des Lyttle
+377,1,Liverpool,4,MF,0.75,9,0.37,480,0.19,20,0.56,,3,0.19,37,,4,1,eng ENG,0,0.37,0,0,13,David Thompson
+378,0,Nottingham Forest,1,DF,0.19,1,0.00,480,0.00,30,0.19,,1,0.00,80,,5,0,se SWE,0,0.00,0,0,6,Jesper Mattsson
+379,0,Wimbledon,2,MF,0.39,3,0.19,465,0.00,25,0.19,,1,0.00,58,,5,1,eng ENG,0,0.19,0,0,8,Gareth Ainsworth
+380,0,Nottingham Forest,2,DF,0.39,1,0.00,463,0.00,27,0.19,,1,0.00,66,,6,0,no NOR,0,0.00,0,0,7,Ståle Stensaas
+381,0,Charlton Athletic,3,"DF,FW,MF",0.60,10,0.00,451,0.00,34,0.00,,0,0.00,38,,2,0,eng ENG,0,0.00,0,0,12,John Barnes
+382,1,Derby County,,FW,,1,,448,,25,0.00,,0,0.20,64,,6,,dk DEN,,,0,,7,Mikkel Beck
+383,0,Manchester United,0,DF,0.00,2,0.00,421,0.00,28,0.21,,1,0.00,70,,4,0,eng ENG,0,0.00,0,0,6,David May
+384,0,Arsenal,3,FW,0.65,9,0.00,413,0.00,23,0.00,,0,0.00,34,,3,0,lr LBR,0,0.00,0,0,12,Christopher Wreh
+385,0,Leicester City,2,MF,0.44,11,0.00,411,0.00,20,0.22,,1,0.00,34,,1,0,sco SCO,0,0.00,0,0,12,Stuart Campbell
+386,0,Coventry City,0,DF,0.00,2,0.00,409,0.00,30,0.00,,0,0.00,68,,4,0,fr FRA,0,0.00,0,0,6,Jean-Guy Wallemme
+387,0,Manchester United,0,GK,0.00,1,0.00,405,0.00,35,0.00,,0,0.00,81,,4,0,nl NED,0,0.00,0,0,5,Raimond van der Gouw
+388,0,Leeds United,0,GK,0.00,1,0.00,405,0.00,18,0.00,,0,0.00,81,,4,0,eng ENG,0,0.00,0,0,5,Paul Robinson
+389,0,Leicester City,3,"FW,MF",0.67,4,0.00,403,0.00,25,0.22,,1,0.00,45,,5,0,is ISL,0,0.00,0,0,9,Arnar Gunnlaugsson
+390,1,Nottingham Forest,1,MF,0.22,0,0.45,403,0.22,33,0.22,,1,0.22,81,,5,1,eng ENG,0,0.45,0,0,5,Geoff Thomas
+391,0,Leeds United,1,MF,0.23,5,0.00,398,0.00,17,0.00,,0,0.00,50,,3,0,wal WAL,0,0.00,0,0,8,Matt Jones
+392,0,Liverpool,4,MF,0.92,7,0.00,392,0.00,18,0.23,,1,0.00,36,,4,0,eng ENG,0,0.00,0,0,11,Steven Gerrard
+393,2,Leeds United,5,MF,1.15,3,0.69,392,0.46,23,0.00,,0,0.46,56,,4,1,nl NED,0,0.69,0,0,7,Willem Korsten
+394,2,Tottenham Hotspur,7,MF,1.72,11,0.74,367,0.49,24,0.25,,1,0.49,28,,2,1,pt POR,0,0.74,0,0,13,José Dominguez
+395,0,Newcastle United,2,DF,0.50,3,0.00,362,0.00,30,0.25,,1,0.00,60,,3,0,be BEL,0,0.00,0,0,6,Philippe Albert
+396,0,Everton,0,DF,0.00,0,0.00,360,0.00,29,0.25,,1,0.00,90,,4,0,hr CRO,0,0.00,0,0,4,Slaven Bilić
+397,0,Newcastle United,1,DF,0.25,0,0.00,360,0.00,19,0.00,,0,0.00,90,,4,0,eng ENG,0,0.00,0,0,4,David Beharall
+398,0,Southampton,0,DF,0.00,0,0.00,360,0.00,29,0.25,,1,0.00,90,,4,0,,0,0.00,0,0,4,Richard Dryden
+399,0,Southampton,0,DF,0.00,0,0.00,360,0.00,19,0.25,,1,0.00,90,,4,0,eng ENG,0,0.00,0,0,4,Garry Monk
+400,0,Middlesbrough,0,GK,0.00,0,0.00,360,0.00,28,0.00,,0,0.00,90,,4,0,eng ENG,0,0.00,0,0,4,Marlon Beresford
+401,3,Southampton,8,"FW,MF",2.01,2,0.75,358,0.75,21,0.50,,2,0.75,60,,4,0,lv LVA,0,0.75,0,0,6,Marians Pahars
+402,0,Southampton,0,,0.00,0,0.00,357,0.00,,0.00,,0,0.00,71,,5,0,,0,0.00,0,0,5,Anthony Warner
+403,0,Arsenal,0,DF,0.00,5,0.00,356,0.00,27,0.51,,1,0.00,45,,3,0,fr FRA,0,0.00,1,0,8,Gilles Grimandi
+404,0,Middlesbrough,3,MF,0.77,2,0.51,351,0.00,22,0.51,,2,0.00,59,,4,2,ie IRL,0,0.51,0,0,6,Keith O'Neill
+405,1,Chelsea,8,FW,2.06,6,0.26,349,0.26,17,0.00,,0,0.26,35,,4,0,fi FIN,0,0.26,0,0,10,Mikael Forssell
+406,0,Nottingham Forest,2,FW,0.53,5,0.00,342,0.00,20,0.00,,0,0.00,43,,3,0,sco SCO,0,0.00,0,0,8,Andy Gray
+407,0,Everton,2,MF,0.53,2,0.00,341,0.00,27,0.53,,2,0.00,57,,4,0,eng ENG,0,0.00,0,0,6,Mitch Ward
+408,1,Blackburn Rovers,2,"DF,MF",0.53,1,0.27,339,0.27,24,0.00,,0,0.27,68,,4,0,fr FRA,0,0.27,0,0,5,Sébastien Pérez
+409,0,Newcastle United,3,MF,0.81,6,0.00,335,0.00,21,0.54,,2,0.00,37,,3,0,sco SCO,0,0.00,0,0,9,Garry Brady
+410,0,Arsenal,6,FW,1.73,10,0.00,313,0.00,22,0.00,,0,0.00,26,,2,0,gn GUI,0,0.00,0,0,12,Kaba Diawara
+411,0,Tottenham Hotspur,2,MF,0.58,0,0.00,311,0.00,31,0.29,,1,0.00,78,,4,0,it ITA,0,0.00,0,0,4,Nicola Berti
+412,0,West Ham United,3,MF,0.88,6,0.00,306,0.00,16,0.29,,1,0.00,38,,2,0,eng ENG,0,0.00,0,0,8,Joe Cole
+413,0,Nottingham Forest,0,MF,0.00,2,0.00,289,0.00,35,0.31,,1,0.00,58,,3,0,wal WAL,0,0.00,0,0,5,Glyn Hodges
+414,1,Nottingham Forest,3,"FW,MF",0.94,6,1.26,286,0.31,24,1.26,,4,0.31,32,,3,3,pt POR,0,1.26,0,0,9,Hugo Porfírio
+415,0,Coventry City,1,DF,0.31,1,0.00,286,0.00,28,0.63,,2,0.00,72,,3,0,ba BIH,0,0.00,0,0,4,Muhamed Konjić
+416,0,Derby County,0,DF,0.00,4,0.00,280,0.00,20,0.00,,0,0.00,40,,3,0,eng ENG,0,0.00,0,0,7,Rob Kozluk
+417,0,Wimbledon,0,DF,0.00,3,0.00,279,0.00,23,0.65,,2,0.00,47,,3,0,sco SCO,0,0.00,0,0,6,Duncan Jupp
+418,0,Arsenal,1,"FW,MF",0.33,6,0.00,274,0.00,20,0.00,,0,0.00,34,,2,0,pt POR,0,0.00,0,0,8,Luís Boa Morte
+419,0,Middlesbrough,0,DF,0.00,1,0.00,271,0.00,20,0.00,,0,0.00,68,,3,0,eng ENG,0,0.00,0,0,4,Craig Harrison
+420,0,West Ham United,1,DF,0.33,0,0.00,270,0.00,29,0.00,,0,0.00,90,,3,0,cl CHI,0,0.00,0,0,3,Javier Margas
+421,0,Leicester City,2,MF,0.69,6,0.00,260,0.00,24,0.00,,0,0.00,29,,3,0,eng ENG,0,0.00,0,0,9,Graham Fenton
+422,0,Charlton Athletic,1,DF,0.35,4,0.00,258,0.00,34,0.00,,0,0.00,43,,2,0,wal WAL,0,0.00,0,0,6,Mark Bowen
+423,0,Chelsea,3,MF,1.05,6,0.00,257,0.00,26,0.00,,0,0.00,37,,1,0,eng ENG,0,0.00,0,0,7,Eddie Newton
+424,0,Coventry City,1,DF,0.35,7,0.00,256,0.00,22,0.35,,1,0.00,28,,2,0,eng ENG,0,0.00,0,0,9,Marcus Hall
+425,0,Leicester City,0,GK,0.00,2,0.00,253,0.00,25,0.00,,0,0.00,63,,2,0,fr FRA,0,0.00,0,0,4,Pegguy Arphexad
+426,0,Nottingham Forest,2,MF,0.73,0,0.00,247,0.00,31,0.36,,1,0.00,82,,3,0,us USA,0,0.00,0,0,3,John Harkes
+427,0,Sheffield Wednesday,0,DF,0.00,3,0.00,239,0.00,27,0.00,,0,0.00,48,,2,0,eng ENG,0,0.00,0,0,5,Jon Newsome
+428,0,Blackburn Rovers,2,FW,0.77,3,0.39,233,0.00,30,0.00,,0,0.00,47,,2,1,se SWE,0,0.39,0,0,5,Martin Dahlin
+429,0,Liverpool,1,DF,0.39,2,0.00,233,0.00,26,0.77,,2,0.00,39,,4,0,eng ENG,0,0.00,0,0,6,Steve Harkness
+430,1,Newcastle United,2,FW,0.78,2,0.39,230,0.39,27,0.00,,0,0.39,58,,2,0,fr FRA,0,0.39,0,0,4,Stéphane Guivarc'h
+431,0,Newcastle United,1,DF,0.40,1,0.00,225,0.00,22,0.40,,1,0.00,56,,3,0,eng ENG,0,0.00,0,0,4,Carl Serrant
+432,0,Chelsea,0,GK,0.00,1,0.00,224,0.00,35,0.00,,0,0.00,75,,2,0,,0,0.00,0,0,3,Kevin Hitchcock
+433,0,Derby County,1,DF,0.41,1,0.00,219,0.00,29,0.00,,0,0.00,55,,3,0,gr GRE,0,0.00,0,0,4,Vassilios Borbokis
+434,0,Liverpool,0,DF,0.00,5,0.00,215,0.00,26,0.00,,0,0.00,31,,2,0,no NOR,0,0.00,0,0,7,Bjørn Tore Kvarme
+435,0,Middlesbrough,2,MF,0.85,1,0.00,213,0.00,23,0.00,,0,0.00,53,,3,0,ie IRL,0,0.00,0,0,4,Alan Moore
+436,1,Leicester City,2,MF,0.87,5,0.00,207,0.00,32,0.00,,0,0.43,30,,2,0,eng ENG,1,0.43,0,1,7,Garry Parker
+437,0,Newcastle United,0,DF,0.00,1,0.00,198,0.00,23,0.45,,1,0.00,66,,2,0,it ITA,0,0.00,0,0,3,Alessandro Pistone
+438,0,Leicester City,1,MF,0.46,8,0.00,196,0.00,20,0.00,,0,0.00,22,,1,0,eng ENG,0,0.00,0,0,9,Stuart Wilson
+439,0,Southampton,0,"MF,FW",0.00,2,0.00,195,0.00,18,0.00,,0,0.00,49,,2,0,eng ENG,0,0.00,0,0,4,Kevin Gibbens
+440,0,West Ham United,2,FW,0.96,1,0.00,188,0.00,25,0.00,,0,0.00,63,,2,0,fr FRA,0,0.00,0,0,3,Samassi Abou
+441,0,Coventry City,2,"DF,MF",0.96,4,0.00,188,0.00,20,0.00,,0,0.00,38,,1,0,eng ENG,0,0.00,0,0,5,Sam Shilton
+442,0,Leeds United,1,MF,0.50,2,0.00,180,0.00,27,0.00,,0,0.00,45,,2,0,eng ENG,0,0.00,0,0,4,Lee Sharpe
+443,1,Sheffield Wednesday,3,FW,1.50,6,1.00,180,0.50,20,0.00,,0,0.50,26,,1,1,eng ENG,0,1.00,0,0,7,Richard Cresswell
+444,0,Coventry City,0,GK,0.00,0,0.00,180,0.00,40,0.00,,0,0.00,90,,2,0,eng ENG,0,0.00,0,0,2,Steve Ogrizovic
+445,0,Southampton,0,DF,0.00,0,0.00,180,0.00,25,0.50,,1,0.00,90,,2,0,sco SCO,0,0.00,0,0,2,Scott Marshall
+446,0,Blackburn Rovers,0,"GK,FW",0.00,0,0.00,180,0.00,27,0.00,,0,0.00,90,,2,0,nir NIR,0,0.00,0,0,2,Alan Fettis
+447,0,Middlesbrough,0,DF,0.00,0,0.00,162,0.00,18,0.00,,0,0.00,81,,2,0,ie IRL,0,0.00,0,0,2,Jason Gavin
+448,0,Leicester City,0,MF,0.00,1,0.00,162,0.00,19,0.00,,0,0.00,54,,2,0,eng ENG,0,0.00,0,0,3,Stefan Oakes
+449,0,Middlesbrough,4,FW,2.22,7,0.00,162,0.00,19,0.56,,1,0.00,20,,1,0,eng ENG,0,0.00,0,0,8,Andy Campbell
+450,1,Middlesbrough,2,FW,1.12,6,1.12,161,0.56,23,0.00,,0,0.56,27,,0,1,eng ENG,0,1.12,0,0,6,Alun Armstrong
+451,0,Everton,2,FW,1.15,6,0.00,156,0.00,19,0.00,,0,0.00,22,,1,0,eng ENG,0,0.00,0,0,7,Michael Branch
+452,0,Sheffield Wednesday,3,"DF,MF",1.91,5,0.00,141,0.00,29,0.00,,0,0.00,24,,1,0,nir NIR,0,0.00,0,0,6,Jim Magilton
+453,2,Middlesbrough,3,DF,1.93,5,1.29,140,1.29,29,0.64,,1,1.29,28,,0,0,"cs TCH,sk SVK",0,1.29,0,0,5,Vladimír Kinder
+454,0,Everton,1,FW,0.64,0,0.00,140,0.00,30,0.00,,0,0.00,70,,2,0,fr FRA,0,0.00,0,0,2,Mickaël Madar
+455,0,West Ham United,0,DF,0.00,1,0.00,138,0.00,33,0.00,,0,0.00,46,,2,0,eng ENG,0,0.00,0,0,3,Tim Breacker
+456,0,Middlesbrough,1,DF,0.67,1,0.00,135,0.00,19,0.00,,0,0.00,68,,1,0,eng ENG,0,0.00,0,0,2,Steve Baker
+457,0,Everton,0,DF,0.00,0,0.00,131,0.00,23,0.00,,0,0.00,66,,2,0,eng ENG,0,0.00,0,0,2,John O'Kane
+458,0,Blackburn Rovers,0,DF,0.00,2,0.00,127,0.00,18,0.00,,0,0.00,42,,1,0,eng ENG,0,0.00,0,0,3,Martin Taylor
+459,0,Manchester United,0,DF,0.00,3,0.00,126,0.00,19,0.00,,0,0.00,32,,1,0,eng ENG,0,0.00,0,0,4,John Curtis
+460,0,Everton,1,FW,0.73,1,0.00,124,0.00,27,0.00,,0,0.00,41,,2,0,sco SCO,0,0.00,0,0,3,John Spencer
+461,1,Charlton Athletic,3,FW,2.20,4,0.73,123,0.73,36,0.00,,0,0.73,25,,1,0,eng ENG,0,0.73,0,0,5,Mark Bright
+462,0,West Ham United,0,GK,0.00,1,0.00,123,0.00,30,0.00,,0,0.00,62,,1,0,ca CAN,0,0.00,0,0,2,Craig Forrest
+463,0,Charlton Athletic,0,"MF,DF,FW",0.00,1,0.00,117,0.00,17,0.00,,0,0.00,59,,1,0,eng ENG,0,0.00,0,0,2,Paul Konchesky
+464,0,Leicester City,1,MF,0.79,3,0.00,114,0.00,22,0.00,,0,0.00,29,,1,0,sco SCO,0,0.00,0,0,4,Charles Miller
+465,0,Nottingham Forest,0,DF,0.00,1,0.00,112,0.00,17,0.00,,0,0.00,56,,1,0,sco SCO,0,0.00,0,0,2,Chris Doig
+466,0,Tottenham Hotspur,0,MF,0.00,4,0.87,104,0.00,29,0.00,,0,0.00,26,,0,1,dz ALG,0,0.87,0,0,4,Moussa Saïb
+467,0,Everton,0,MF,0.00,4,0.00,102,0.00,21,0.00,,0,0.00,26,,0,0,dk DEN,0,0.00,0,0,4,Peter Degn
+468,0,Derby County,0,MF,0.00,4,0.00,100,0.00,16,0.90,,1,0.00,25,,0,0,eng ENG,0,0.00,0,0,4,Adam Murray
+469,0,Sheffield Wednesday,0,DF,0.00,5,0.00,95,0.00,31,0.00,,0,0.00,19,,0,0,eng ENG,0,0.00,0,0,5,Earl Barrett
+470,1,Sheffield Wednesday,1,MF,0.99,4,0.99,91,0.99,23,0.00,,0,0.99,23,,0,0,sco SCO,0,0.99,0,0,4,Philip Scott
+471,0,Tottenham Hotspur,0,GK,0.00,0,0.00,90,0.00,36,0.00,,0,0.00,90,,1,0,nl NED,0,0.00,0,0,1,Hans Segers
+472,0,Chelsea,0,GK,0.00,0,0.00,90,0.00,29,0.00,,0,0.00,90,,1,0,"ru RUS,su URS",0,0.00,0,0,1,Dmitri Kharine
+473,0,Arsenal,0,"DF,MF",0.00,0,0.00,90,0.00,18,0.00,,0,0.00,90,,1,0,fr FRA,0,0.00,0,0,1,David Grondin
+474,0,Coventry City,1,FW,1.00,0,0.00,90,0.00,21,0.00,,0,0.00,90,,1,0,wal WAL,0,0.00,0,0,1,Simon Haworth
+475,0,Nottingham Forest,0,MF,0.00,2,0.00,90,0.00,30,1.00,,1,0.00,45,,0,0,eng ENG,0,0.00,0,0,2,Ian Woan
+476,0,Derby County,1,FW,1.02,2,0.00,88,0.00,19,0.00,,0,0.00,44,,0,0,eng ENG,0,0.00,0,0,2,Malcolm Christie
+477,2,Manchester United,3,"FW,MF",3.18,5,3.18,85,2.12,24,0.00,,0,2.12,17,,0,1,nl NED,0,3.18,0,0,5,Jordi Cruyff
+478,1,Southampton,1,FW,1.06,4,1.06,85,1.06,20,0.00,,0,1.06,21,,0,0,eng ENG,0,1.06,0,0,4,Steve Basham
+479,0,Sheffield Wednesday,1,FW,1.07,1,0.00,84,0.00,33,0.00,,0,0.00,42,,1,0,eng ENG,0,0.00,0,0,2,Guy Whittingham
+480,0,Chelsea,0,DF,0.00,0,0.00,83,0.00,24,0.00,,0,0.00,83,,1,0,eng ENG,0,0.00,0,0,1,Andy Myers
+481,0,Coventry City,0,DF,0.00,3,0.00,82,0.00,20,0.00,,0,0.00,27,,0,0,eng ENG,0,0.00,0,0,3,Mark Jackson
+482,0,Aston Villa,2,"MF,FW",2.20,6,1.10,82,0.00,18,0.00,,0,0.00,14,,0,1,eng ENG,0,1.10,0,0,6,Darius Vassell
+483,0,Chelsea,2,FW,2.28,9,0.00,79,0.00,21,0.00,,0,0.00,9,,0,0,eng ENG,0,0.00,0,0,9,Mark Nicholls
+484,0,Wimbledon,0,MF,0.00,0,0.00,74,0.00,25,0.00,,0,0.00,74,,1,0,eng ENG,0,0.00,0,0,1,Stewart Castledine
+485,0,Sheffield Wednesday,0,MF,0.00,1,0.00,73,0.00,25,0.00,,0,0.00,73,,0,0,eng ENG,0,0.00,0,0,1,Scott Oakes
+486,0,Arsenal,0,DF,0.00,5,0.00,71,0.00,19,0.00,,0,0.00,14,,0,0,eng ENG,0,0.00,0,0,5,Matthew Upson
+487,1,Derby County,2,MF,2.54,6,1.27,71,1.27,26,0.00,,0,1.27,12,,0,0,eng ENG,0,1.27,0,0,6,Jonathan Hunt
+488,0,Manchester United,1,MF,1.29,3,0.00,70,0.00,19,0.00,,0,0.00,23,,0,0,eng ENG,0,0.00,0,0,3,Jonathan Greening
+489,0,Charlton Athletic,1,DF,1.41,3,0.00,64,0.00,25,0.00,,0,0.00,21,,0,0,eng ENG,0,0.00,0,0,3,Anthony Barness
+490,0,Southampton,0,DF,0.00,3,0.00,58,0.00,31,0.00,,0,0.00,15,,1,0,eng ENG,0,0.00,0,0,4,John Beresford
+491,0,Chelsea,0,DF,0.00,2,0.00,50,0.00,17,0.00,,0,0.00,25,,0,0,eng ENG,0,0.00,0,0,2,John Terry
+492,0,Liverpool,0,"MF,DF",0.00,2,0.00,50,0.00,28,0.00,,0,0.00,25,,0,0,fr FRA,0,0.00,0,0,2,Jean-Michel Ferri
+493,0,Coventry City,0,FW,0.00,3,0.00,47,0.00,21,0.00,,0,0.00,16,,0,0,it ITA,0,0.00,0,0,3,Stefano Gioacchini
+494,0,Sheffield Wednesday,0,MF,0.00,0,0.00,46,0.00,19,0.00,,0,0.00,46,,1,0,ie IRL,0,0.00,0,0,1,Alan Quinn
+495,0,Sheffield Wednesday,1,FW,2.20,1,0.00,41,0.00,18,2.20,,1,0.00,41,,0,0,gh GHA,0,0.00,0,0,1,Junior Agogo
+496,0,Liverpool,0,FW,0.00,3,0.00,37,0.00,25,0.00,,0,0.00,12,,0,0,"de GER,za RSA",0,0.00,0,0,3,Sean Dundee
+497,0,Charlton Athletic,0,MF,0.00,4,0.00,36,0.00,17,0.00,,0,0.00,9,,0,0,eng ENG,0,0.00,0,0,4,Scott Parker
+498,0,Sheffield Wednesday,1,FW,2.57,3,0.00,35,0.00,19,0.00,,0,0.00,12,,0,0,it ITA,0,0.00,0,0,3,Francesco Sanetti
+499,0,Aston Villa,0,GK,0.00,1,0.00,33,0.00,21,0.00,,0,0.00,33,,0,0,eng ENG,0,0.00,0,0,1,Adam Rachel
+500,0,West Ham United,1,FW,2.81,3,0.00,32,0.00,20,0.00,,0,0.00,11,,0,0,ng NGA,0,0.00,0,0,3,Emmanuel Omoyinmi
+501,0,Tottenham Hotspur,1,FW,3.10,5,0.00,29,0.00,20,0.00,,0,0.00,6,,0,0,eng ENG,0,0.00,0,0,5,Rory Allen
+502,0,Leeds United,0,FW,0.00,2,0.00,26,0.00,24,0.00,,0,0.00,13,,0,0,sco SCO,0,0.00,0,0,2,Derek Lilley
+503,0,Aston Villa,0,DF,0.00,2,0.00,25,0.00,22,0.00,,0,0.00,13,,0,0,wal WAL,0,0.00,0,0,2,Mark Delaney
+504,0,Southampton,1,FW,3.75,2,0.00,24,0.00,30,0.00,,0,0.00,12,,0,0,eng ENG,0,0.00,0,0,2,David Hirst
+505,0,Middlesbrough,0,FW,0.00,1,0.00,23,0.00,33,0.00,,0,0.00,23,,0,0,it ITA,0,0.00,0,0,1,Marco Branca
+506,0,Charlton Athletic,0,FW,0.00,1,0.00,23,0.00,19,0.00,,0,0.00,23,,0,0,jm JAM,0,0.00,0,0,1,Kevin Lisbie
+507,0,Everton,0,MF,0.00,3,0.00,20,0.00,18,0.00,,0,0.00,7,,0,0,eng ENG,0,0.00,0,0,3,Jamie Milligan
+508,0,Arsenal,0,FW,0.00,1,0.00,16,0.00,20,0.00,,0,0.00,16,,0,0,ar ARG,0,0.00,0,0,1,Fabián Caballero
+509,0,Liverpool,0,MF,0.00,1,0.00,15,0.00,21,0.00,,0,0.00,15,,0,0,eng ENG,0,0.00,0,0,1,Danny Murphy
+510,0,Nottingham Forest,0,"FW,MF",0.00,2,0.00,14,0.00,23,0.00,,0,0.00,7,,0,0,fr FRA,0,0.00,0,0,2,Bernard Allou
+511,0,Wimbledon,0,MF,0.00,2,0.00,9,0.00,24,0.00,,0,0.00,5,,0,0,eng ENG,0,0.00,0,0,2,Peter Fear
+512,0,West Ham United,0,DF,0.00,1,0.00,7,0.00,19,0.00,,0,0.00,7,,0,0,au AUS,0,0.00,0,0,1,Chris Coyne
+513,0,Wimbledon,0,FW,0.00,1,0.00,6,0.00,27,0.00,,0,0.00,6,,0,0,ie IRL,0,0.00,0,0,1,Jon Goodman
+514,0,West Ham United,0,MF,0.00,1,0.00,5,0.00,20,0.00,,0,0.00,5,,0,0,eng ENG,0,0.00,0,0,1,Lee Hodges
+515,0,Coventry City,0,"FW,MF",0.00,1,0.00,1,0.00,15,0.00,,0,0.00,1,,0,0,eng ENG,0,0.00,0,0,1,Gary McSheffrey
