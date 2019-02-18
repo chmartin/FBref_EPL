@@ -1,41 +1,41 @@
-,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
-0,34.2,pl POL,Arsenal,7,49,Wojciech Szczęsny,.637,90,GK,"3,420",0,38,21,21,10,1.29,38,135,13
-1,21.1,om OMA,Wigan Athletic,10,62,Ali Al-Habsi,.690,90,GK,"3,420",0,38,29,11,17,1.63,38,200,8
-2,36.8,us USA,Tottenham Hotspur,9,41,Brad Friedel,.748,90,GK,"3,420",0,38,40,20,9,1.08,38,163,14
-3,31.6,us USA,Everton,11,40,Tim Howard,.710,90,GK,"3,420",0,38,32,15,12,1.05,38,138,12
-4,44.7,eng ENG,Manchester City,5,29,Joe Hart,.782,90,GK,"3,420",0,38,24,28,5,0.76,38,133,17
-5,39.5,nl NED,Newcastle United,8,51,Tim Krul,.710,90,GK,"3,420",0,38,23,19,11,1.34,38,176,15
-6,37.8,nl NED,Swansea City,11,49,Michel Vorm,.747,90,GK,"3,330",0,37,27,12,14,1.32,37,194,14
-7,27.0,eng ENG,West Bromwich Albion,8,49,Ben Foster,.705,90,GK,"3,330",0,37,28,13,16,1.32,37,166,10
-8,8.1,eng ENG,Norwich City,11,63,John Ruddy,.711,90,GK,"3,320",0,37,24,12,14,1.71,37,218,3
-9,8.8,eng ENG,Blackburn Rovers,6,71,Paul Robinson,.570,90,GK,"3,060",0,34,31,7,21,2.09,34,165,3
-10,29.4,cz CZE,Chelsea,10,39,Petr Čech,.721,90,GK,"3,060",0,34,29,16,9,1.15,34,140,10
-11,8.8,wal WAL,Wolverhampton Wanderers,8,73,Wayne Hennessey,.703,90,GK,"3,060",0,34,24,5,21,2.15,34,246,3
-12,35.3,es ESP,Liverpool,9,35,Pepe Reina,.706,90,GK,"3,052",0,34,28,13,12,1.03,34,119,12
-13,21.2,ie IRL,Queens Park Rangers,6,59,Paddy Kenny,.655,90,GK,"2,970",0,33,33,9,17,1.79,33,171,7
-14,25.0,ie IRL,Aston Villa,16,45,Shay Given,.712,88,GK,"2,827",0,32,35,5,10,1.43,32,156,8
-15,33.3,au AUS,Fulham,7,37,Mark Schwarzer,.738,90,GK,"2,700",0,30,38,11,12,1.23,30,141,10
-16,44.8,es ESP,Manchester United,5,29,David de Gea,.784,90,GK,"2,610",0,29,20,20,4,1.00,29,134,13
-17,37.9,be BEL,Sunderland,8,33,Simon Mignolet,.763,89,GK,"2,571",0,29,23,9,11,1.16,29,139,11
-18,31.8,ba BIH,Stoke City,8,31,Asmir Begović,.713,87,GK,"1,998",1,23,24,7,8,1.40,22,108,7
-19,5.0,hu HUN,Bolton Wanderers,5,40,Ádám Bogdán,.672,90,GK,"1,800",0,20,23,6,9,2.00,20,122,1
-20,11.1,fi FIN,Bolton Wanderers,1,37,Jussi Jääskeläinen,.667,90,GK,"1,620",0,18,36,4,13,2.06,18,111,2
-21,12.5,dk DEN,Stoke City,4,22,Thomas Sørensen,.681,89,GK,"1,422",0,16,35,4,7,1.39,16,69,2
-22,12.5,ie IRL,Sunderland,3,11,Keiren Westwood,.593,84,GK,759,1,9,26,2,4,1.30,8,27,1
-23,75.0,dk DEN,Manchester United,0,4,Anders Lindegaard,.826,90,GK,720,0,8,27,7,1,0.50,8,23,6
-24,12.5,eng ENG,Fulham,3,14,David Stockdale,.763,90,GK,720,0,8,25,3,2,1.75,8,59,1
-25,16.7,us USA,Aston Villa,1,8,Brad Guzan,.724,85,GK,593,1,7,26,2,4,1.21,6,29,1
-26,0.0,cz CZE,Queens Park Rangers,1,7,Radek Černý,.806,90,GK,450,0,5,37,0,4,1.40,5,36,0
-27,25.0,nl NED,Wolverhampton Wanderers,2,8,Dorus de Vries,.600,80,GK,320,0,4,30,0,2,2.25,4,20,1
-28,0.0,br BRA,Liverpool,1,3,Doni,.727,74,GK,295,0,4,31,0,2,0.92,4,11,0
-29,0.0,eng ENG,Blackburn Rovers,1,5,Mark Bunn,.737,90,GK,270,0,3,26,1,1,1.67,3,19,0
-30,0.0,pt POR,Chelsea,0,2,Henrique Hilário,.800,90,GK,180,0,2,35,2,0,1.00,2,10,0
-31,0.0,eng ENG,Chelsea,0,5,Ross Turnbull,.545,90,GK,180,0,2,26,1,1,2.50,2,11,0
-32,0.0,eng ENG,Norwich City,0,3,Declan Rudd,.700,50,GK,100,1,2,20,0,1,2.70,1,10,0
-33,0.0,hu HUN,West Bromwich Albion,0,3,Márton Fülöp,.400,90,GK,90,0,1,28,0,1,3.00,1,5,0
-34,0.0,de GER,Swansea City,0,2,Gerhard Tremmel,.500,90,GK,90,0,1,32,0,1,2.00,1,4,0
-35,0.0,eng ENG,Blackburn Rovers,0,2,Jake Kean,.667,90,GK,90,0,1,20,0,1,2.00,1,6,0
-36,0.0,sco SCO,Sunderland,1,2,Craig Gordon,.500,90,GK,90,0,1,28,0,0,2.00,1,4,0
-37,100.0,eng ENG,Manchester United,0,0,Ben Amos,1.000,90,GK,90,0,1,21,1,0,0.00,1,2,1
-38,,au AUS,Liverpool,0,2,Brad Jones,.714,65,GK,65,1,1,29,1,0,2.77,0,7,0
-39,,ng NGA,Wolverhampton Wanderers,0,1,Carl Ikeme,.800,40,GK,40,1,1,25,0,0,2.25,0,5,0
+,games_starts,losses,minutes_per_game,save_perc,nationality,player,position,age,clean_sheets_perc,wins,goals_against_per90,games_subs,goals_against,shots_on_target_against,games,clean_sheets,minutes,draws,squad
+0,38,10,90,.637,pl POL,Wojciech Szczęsny,GK,21,34.2,21,1.29,0,49,135,38,13,"3,420",7,Arsenal
+1,38,17,90,.690,om OMA,Ali Al-Habsi,GK,29,21.1,11,1.63,0,62,200,38,8,"3,420",10,Wigan Athletic
+2,38,9,90,.748,us USA,Brad Friedel,GK,40,36.8,20,1.08,0,41,163,38,14,"3,420",9,Tottenham Hotspur
+3,38,12,90,.710,us USA,Tim Howard,GK,32,31.6,15,1.05,0,40,138,38,12,"3,420",11,Everton
+4,38,5,90,.782,eng ENG,Joe Hart,GK,24,44.7,28,0.76,0,29,133,38,17,"3,420",5,Manchester City
+5,38,11,90,.710,nl NED,Tim Krul,GK,23,39.5,19,1.34,0,51,176,38,15,"3,420",8,Newcastle United
+6,37,14,90,.747,nl NED,Michel Vorm,GK,27,37.8,12,1.32,0,49,194,37,14,"3,330",11,Swansea City
+7,37,16,90,.705,eng ENG,Ben Foster,GK,28,27.0,13,1.32,0,49,166,37,10,"3,330",8,West Bromwich Albion
+8,37,14,90,.711,eng ENG,John Ruddy,GK,24,8.1,12,1.71,0,63,218,37,3,"3,320",11,Norwich City
+9,34,21,90,.570,eng ENG,Paul Robinson,GK,31,8.8,7,2.09,0,71,165,34,3,"3,060",6,Blackburn Rovers
+10,34,9,90,.721,cz CZE,Petr Čech,GK,29,29.4,16,1.15,0,39,140,34,10,"3,060",10,Chelsea
+11,34,21,90,.703,wal WAL,Wayne Hennessey,GK,24,8.8,5,2.15,0,73,246,34,3,"3,060",8,Wolverhampton Wanderers
+12,34,12,90,.706,es ESP,Pepe Reina,GK,28,35.3,13,1.03,0,35,119,34,12,"3,052",9,Liverpool
+13,33,17,90,.655,ie IRL,Paddy Kenny,GK,33,21.2,9,1.79,0,59,171,33,7,"2,970",6,Queens Park Rangers
+14,32,10,88,.712,ie IRL,Shay Given,GK,35,25.0,5,1.43,0,45,156,32,8,"2,827",16,Aston Villa
+15,30,12,90,.738,au AUS,Mark Schwarzer,GK,38,33.3,11,1.23,0,37,141,30,10,"2,700",7,Fulham
+16,29,4,90,.784,es ESP,David de Gea,GK,20,44.8,20,1.00,0,29,134,29,13,"2,610",5,Manchester United
+17,29,11,89,.763,be BEL,Simon Mignolet,GK,23,37.9,9,1.16,0,33,139,29,11,"2,571",8,Sunderland
+18,22,8,87,.713,ba BIH,Asmir Begović,GK,24,31.8,7,1.40,1,31,108,23,7,"1,998",8,Stoke City
+19,20,9,90,.672,hu HUN,Ádám Bogdán,GK,23,5.0,6,2.00,0,40,122,20,1,"1,800",5,Bolton Wanderers
+20,18,13,90,.667,fi FIN,Jussi Jääskeläinen,GK,36,11.1,4,2.06,0,37,111,18,2,"1,620",1,Bolton Wanderers
+21,16,7,89,.681,dk DEN,Thomas Sørensen,GK,35,12.5,4,1.39,0,22,69,16,2,"1,422",4,Stoke City
+22,8,4,84,.593,ie IRL,Keiren Westwood,GK,26,12.5,2,1.30,1,11,27,9,1,759,3,Sunderland
+23,8,1,90,.826,dk DEN,Anders Lindegaard,GK,27,75.0,7,0.50,0,4,23,8,6,720,0,Manchester United
+24,8,2,90,.763,eng ENG,David Stockdale,GK,25,12.5,3,1.75,0,14,59,8,1,720,3,Fulham
+25,6,4,85,.724,us USA,Brad Guzan,GK,26,16.7,2,1.21,1,8,29,7,1,593,1,Aston Villa
+26,5,4,90,.806,cz CZE,Radek Černý,GK,37,0.0,0,1.40,0,7,36,5,0,450,1,Queens Park Rangers
+27,4,2,80,.600,nl NED,Dorus de Vries,GK,30,25.0,0,2.25,0,8,20,4,1,320,2,Wolverhampton Wanderers
+28,4,2,74,.727,br BRA,Doni,GK,31,0.0,0,0.92,0,3,11,4,0,295,1,Liverpool
+29,3,1,90,.737,eng ENG,Mark Bunn,GK,26,0.0,1,1.67,0,5,19,3,0,270,1,Blackburn Rovers
+30,2,0,90,.800,pt POR,Henrique Hilário,GK,35,0.0,2,1.00,0,2,10,2,0,180,0,Chelsea
+31,2,1,90,.545,eng ENG,Ross Turnbull,GK,26,0.0,1,2.50,0,5,11,2,0,180,0,Chelsea
+32,1,1,50,.700,eng ENG,Declan Rudd,GK,20,0.0,0,2.70,1,3,10,2,0,100,0,Norwich City
+33,1,1,90,.400,hu HUN,Márton Fülöp,GK,28,0.0,0,3.00,0,3,5,1,0,90,0,West Bromwich Albion
+34,1,1,90,.500,de GER,Gerhard Tremmel,GK,32,0.0,0,2.00,0,2,4,1,0,90,0,Swansea City
+35,1,1,90,.667,eng ENG,Jake Kean,GK,20,0.0,0,2.00,0,2,6,1,0,90,0,Blackburn Rovers
+36,1,0,90,.500,sco SCO,Craig Gordon,GK,28,0.0,0,2.00,0,2,4,1,0,90,1,Sunderland
+37,1,0,90,1.000,eng ENG,Ben Amos,GK,21,100.0,1,0.00,0,0,2,1,1,90,0,Manchester United
+38,0,0,65,.714,au AUS,Brad Jones,GK,29,,1,2.77,1,2,7,1,0,65,0,Liverpool
+39,0,0,40,.800,ng NGA,Carl Ikeme,GK,25,,0,2.25,1,1,5,1,0,40,0,Wolverhampton Wanderers

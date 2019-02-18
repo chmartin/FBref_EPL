@@ -1,39 +1,39 @@
-,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
-0,26.3,au AUS,Brighton & Hove Albion,13,54,Mathew Ryan,.702,90,GK,"3,420",0,38,25,9,16,1.42,38,181,10
-1,26.3,eng ENG,Everton,10,58,Jordan Pickford,.685,90,GK,"3,420",0,38,23,13,15,1.53,38,184,10
-2,15.8,ba BIH,Bournemouth,11,61,Asmir Begović,.643,90,GK,"3,420",0,38,30,11,16,1.61,38,171,6
-3,23.7,pl POL,Swansea City,9,56,Łukasz Fabiański,.707,90,GK,"3,420",0,38,32,8,21,1.47,38,191,9
-4,26.3,dk DEN,Huddersfield Town,10,57,Jonas Lössl,.655,90,GK,"3,420",0,38,28,9,19,1.50,38,165,10
-5,48.6,es ESP,Manchester United,6,28,David de Gea,.806,90,GK,"3,330",0,37,26,24,7,0.76,37,144,18
-6,27.0,eng ENG,West Bromwich Albion,12,55,Ben Foster,.641,90,GK,"3,330",0,37,34,6,19,1.49,37,153,10
-7,41.7,fr FRA,Tottenham Hotspur,7,35,Hugo Lloris,.706,90,GK,"3,240",0,36,30,22,7,0.97,36,119,15
-8,44.4,br BRA,Manchester City,4,26,Ederson,.671,89,GK,"3,194",0,36,23,30,2,0.73,36,79,16
-9,42.9,be BEL,Chelsea,6,34,Thibaut Courtois,.685,90,GK,"3,150",0,35,25,20,9,0.97,35,108,15
-10,17.1,eng ENG,Stoke City,11,61,Jack Butland,.702,90,GK,"3,150",0,35,24,7,17,1.74,35,205,6
-11,32.4,eng ENG,Burnley,11,35,Nick Pope,.767,89,GK,"3,115",1,35,25,13,11,1.01,34,150,11
-12,32.4,cz CZE,Arsenal,6,48,Petr Čech,.650,89,GK,"3,039",0,34,35,16,12,1.42,34,137,11
-13,24.2,dk DEN,Leicester City,10,47,Kasper Schmeichel,.669,90,GK,"2,965",0,33,30,11,12,1.43,33,142,8
-14,25.9,wal WAL,Crystal Palace,6,41,Wayne Hennessey,.694,90,GK,"2,430",0,27,30,8,13,1.52,27,134,7
-15,20.8,br BRA,Watford,5,40,Heurelho Gomes,.612,89,GK,"2,128",0,24,36,7,12,1.69,24,103,5
-16,20.0,eng ENG,Southampton,7,30,Fraser Forster,.703,90,GK,"1,800",0,20,29,4,9,1.50,20,101,4
-17,52.6,de GER,Liverpool,5,14,Loris Karius,.689,90,GK,"1,710",0,19,24,11,3,0.74,19,45,10
-18,21.1,eng ENG,West Ham United,6,39,Joe Hart,.581,90,GK,"1,710",0,19,30,3,10,2.05,19,93,4
-19,36.8,be BEL,Liverpool,7,24,Simon Mignolet,.607,90,GK,"1,710",0,19,29,10,2,1.26,19,61,7
-20,31.6,es ESP,West Ham United,6,29,Adrián,.701,90,GK,"1,710",0,19,30,7,6,1.53,19,97,6
-21,22.2,eng ENG,Southampton,8,26,Alex McCarthy,.606,90,GK,"1,620",0,18,27,3,7,1.44,18,66,4
-22,18.8,ie IRL,Newcastle United,2,21,Rob Elliot,.682,90,GK,"1,440",0,16,31,5,9,1.31,16,66,3
-23,28.6,gr GRE,Watford,3,24,Orestis Karnezis,.571,86,GK,"1,292",1,15,32,4,7,1.67,14,56,4
-24,33.3,sk SVK,Newcastle United,1,11,Martin Dúbravka,.725,90,GK,"1,080",0,12,28,6,5,0.92,12,40,4
-25,18.2,ar ARG,Crystal Palace,5,14,Julián Speroni,.674,90,GK,990,0,11,38,3,3,1.27,11,43,2
-26,20.0,eng ENG,Newcastle United,5,15,Karl Darlow,.706,90,GK,900,0,10,26,1,4,1.50,10,51,2
-27,50.0,co COL,Arsenal,0,3,David Ospina,.769,76,GK,381,1,5,28,3,1,0.71,4,13,2
-28,0.0,eng ENG,Burnley,1,4,Tom Heaton,.714,76,GK,305,0,4,31,1,1,1.18,4,14,0
-29,33.3,eng ENG,Leicester City,1,7,Ben Hamer,.500,69,GK,275,1,4,29,0,2,2.29,3,14,1
-30,33.3,eng ENG,Stoke City,1,7,Lee Grant,.500,90,GK,270,0,3,34,0,2,2.33,3,14,1
-31,33.3,ar ARG,Chelsea,1,4,Willy Caballero,.667,90,GK,270,0,3,35,1,1,1.33,3,12,1
-32,50.0,cl CHI,Manchester City,0,1,Claudio Bravo,.833,75,GK,226,1,3,34,2,0,0.40,2,6,1
-33,0.0,ch SUI,Leicester City,0,6,Eldin Jakupović,-.200,90,GK,180,0,2,32,1,1,3.00,2,5,0
-34,0.0,nl NED,Tottenham Hotspur,1,1,Michel Vorm,.667,90,GK,90,0,1,33,0,0,1.00,1,3,0
-35,100.0,ar ARG,Manchester United,0,0,Sergio Romero,1.000,90,GK,90,0,1,30,1,0,0.00,1,4,1
-36,100.0,ar ARG,Tottenham Hotspur,0,0,Paulo Gazzaniga,1.000,90,GK,90,0,1,25,1,0,0.00,1,3,1
-37,0.0,wal WAL,West Bromwich Albion,1,1,Boaz Myhill,.667,90,GK,90,0,1,34,0,0,1.00,1,3,0
+,games_starts,losses,minutes_per_game,save_perc,nationality,player,position,age,clean_sheets_perc,wins,goals_against_per90,games_subs,goals_against,shots_on_target_against,games,clean_sheets,minutes,draws,squad
+0,38,16,90,.702,au AUS,Mathew Ryan,GK,25,26.3,9,1.42,0,54,181,38,10,"3,420",13,Brighton & Hove Albion
+1,38,15,90,.685,eng ENG,Jordan Pickford,GK,23,26.3,13,1.53,0,58,184,38,10,"3,420",10,Everton
+2,38,16,90,.643,ba BIH,Asmir Begović,GK,30,15.8,11,1.61,0,61,171,38,6,"3,420",11,Bournemouth
+3,38,21,90,.707,pl POL,Łukasz Fabiański,GK,32,23.7,8,1.47,0,56,191,38,9,"3,420",9,Swansea City
+4,38,19,90,.655,dk DEN,Jonas Lössl,GK,28,26.3,9,1.50,0,57,165,38,10,"3,420",10,Huddersfield Town
+5,37,7,90,.806,es ESP,David de Gea,GK,26,48.6,24,0.76,0,28,144,37,18,"3,330",6,Manchester United
+6,37,19,90,.641,eng ENG,Ben Foster,GK,34,27.0,6,1.49,0,55,153,37,10,"3,330",12,West Bromwich Albion
+7,36,7,90,.706,fr FRA,Hugo Lloris,GK,30,41.7,22,0.97,0,35,119,36,15,"3,240",7,Tottenham Hotspur
+8,36,2,89,.671,br BRA,Ederson,GK,23,44.4,30,0.73,0,26,79,36,16,"3,194",4,Manchester City
+9,35,9,90,.685,be BEL,Thibaut Courtois,GK,25,42.9,20,0.97,0,34,108,35,15,"3,150",6,Chelsea
+10,35,17,90,.702,eng ENG,Jack Butland,GK,24,17.1,7,1.74,0,61,205,35,6,"3,150",11,Stoke City
+11,34,11,89,.767,eng ENG,Nick Pope,GK,25,32.4,13,1.01,1,35,150,35,11,"3,115",11,Burnley
+12,34,12,89,.650,cz CZE,Petr Čech,GK,35,32.4,16,1.42,0,48,137,34,11,"3,039",6,Arsenal
+13,33,12,90,.669,dk DEN,Kasper Schmeichel,GK,30,24.2,11,1.43,0,47,142,33,8,"2,965",10,Leicester City
+14,27,13,90,.694,wal WAL,Wayne Hennessey,GK,30,25.9,8,1.52,0,41,134,27,7,"2,430",6,Crystal Palace
+15,24,12,89,.612,br BRA,Heurelho Gomes,GK,36,20.8,7,1.69,0,40,103,24,5,"2,128",5,Watford
+16,20,9,90,.703,eng ENG,Fraser Forster,GK,29,20.0,4,1.50,0,30,101,20,4,"1,800",7,Southampton
+17,19,3,90,.689,de GER,Loris Karius,GK,24,52.6,11,0.74,0,14,45,19,10,"1,710",5,Liverpool
+18,19,10,90,.581,eng ENG,Joe Hart,GK,30,21.1,3,2.05,0,39,93,19,4,"1,710",6,West Ham United
+19,19,2,90,.607,be BEL,Simon Mignolet,GK,29,36.8,10,1.26,0,24,61,19,7,"1,710",7,Liverpool
+20,19,6,90,.701,es ESP,Adrián,GK,30,31.6,7,1.53,0,29,97,19,6,"1,710",6,West Ham United
+21,18,7,90,.606,eng ENG,Alex McCarthy,GK,27,22.2,3,1.44,0,26,66,18,4,"1,620",8,Southampton
+22,16,9,90,.682,ie IRL,Rob Elliot,GK,31,18.8,5,1.31,0,21,66,16,3,"1,440",2,Newcastle United
+23,14,7,86,.571,gr GRE,Orestis Karnezis,GK,32,28.6,4,1.67,1,24,56,15,4,"1,292",3,Watford
+24,12,5,90,.725,sk SVK,Martin Dúbravka,GK,28,33.3,6,0.92,0,11,40,12,4,"1,080",1,Newcastle United
+25,11,3,90,.674,ar ARG,Julián Speroni,GK,38,18.2,3,1.27,0,14,43,11,2,990,5,Crystal Palace
+26,10,4,90,.706,eng ENG,Karl Darlow,GK,26,20.0,1,1.50,0,15,51,10,2,900,5,Newcastle United
+27,4,1,76,.769,co COL,David Ospina,GK,28,50.0,3,0.71,1,3,13,5,2,381,0,Arsenal
+28,4,1,76,.714,eng ENG,Tom Heaton,GK,31,0.0,1,1.18,0,4,14,4,0,305,1,Burnley
+29,3,2,69,.500,eng ENG,Ben Hamer,GK,29,33.3,0,2.29,1,7,14,4,1,275,1,Leicester City
+30,3,2,90,.500,eng ENG,Lee Grant,GK,34,33.3,0,2.33,0,7,14,3,1,270,1,Stoke City
+31,3,1,90,.667,ar ARG,Willy Caballero,GK,35,33.3,1,1.33,0,4,12,3,1,270,1,Chelsea
+32,2,0,75,.833,cl CHI,Claudio Bravo,GK,34,50.0,2,0.40,1,1,6,3,1,226,0,Manchester City
+33,2,1,90,-.200,ch SUI,Eldin Jakupović,GK,32,0.0,1,3.00,0,6,5,2,0,180,0,Leicester City
+34,1,0,90,.667,nl NED,Michel Vorm,GK,33,0.0,0,1.00,0,1,3,1,0,90,1,Tottenham Hotspur
+35,1,0,90,1.000,ar ARG,Sergio Romero,GK,30,100.0,1,0.00,0,0,4,1,1,90,0,Manchester United
+36,1,0,90,1.000,ar ARG,Paulo Gazzaniga,GK,25,100.0,1,0.00,0,0,3,1,1,90,0,Tottenham Hotspur
+37,1,0,90,.667,wal WAL,Boaz Myhill,GK,34,0.0,0,1.00,0,1,3,1,0,90,1,West Bromwich Albion

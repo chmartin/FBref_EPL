@@ -1,44 +1,44 @@
-,clean_sheets_perc,nationality,squad,draws,goals_against,player,save_perc,minutes_per_game,position,minutes,games_subs,games,age,wins,losses,goals_against_per90,games_starts,shots_on_target_against,clean_sheets
-0,36.8,ie IRL,Newcastle United,6,48,Shay Given,.732,90,GK,"3,420",0,38,26,21,11,1.26,38,179,14
-1,26.3,fi FIN,Bolton Wanderers,14,51,Jussi Jääskeläinen,.730,90,GK,"3,420",0,38,27,10,14,1.34,38,189,10
-2,26.3,eng ENG,Leeds United,5,57,Paul Robinson,.697,90,GK,"3,420",0,38,22,14,19,1.50,38,188,10
-3,13.2,us USA,Tottenham Hotspur,8,62,Kasey Keller,.705,90,GK,"3,420",0,38,32,14,16,1.63,38,210,5
-4,23.7,eng ENG,West Ham United,12,59,David James,.702,90,GK,"3,420",0,38,31,10,16,1.55,38,198,9
-5,26.3,au AUS,Middlesbrough,10,44,Mark Schwarzer,.761,90,GK,"3,420",0,38,29,13,15,1.16,38,184,10
-6,21.1,ie IRL,Charlton Athletic,7,55,Dean Kiely,.699,88,GK,"3,362",0,38,31,14,16,1.47,38,183,8
-7,40.5,us USA,Blackburn Rovers,12,42,Brad Friedel,.793,90,GK,"3,330",0,37,31,16,9,1.14,37,203,15
-8,16.2,eng ENG,West Bromwich Albion,8,61,Russell Hoult,.689,89,GK,"3,275",0,37,29,6,22,1.68,37,196,6
-9,33.3,it ITA,Chelsea,9,36,Carlo Cudicini,.753,90,GK,"3,240",0,36,28,19,8,1.00,36,146,12
-10,33.3,eng ENG,Everton,7,39,Richard Wright,.735,90,GK,"2,970",0,33,24,16,10,1.18,33,147,11
-11,21.2,fi FIN,Aston Villa,7,40,Peter Enckelman,.740,89,GK,"2,926",0,33,25,10,16,1.23,33,154,7
-12,40.0,pl POL,Liverpool,6,33,Jerzy Dudek,.705,90,GK,"2,700",0,30,29,17,7,1.10,30,112,12
-13,31.0,dk DEN,Manchester City,5,38,Peter Schmeichel,.725,90,GK,"2,610",0,29,38,12,12,1.31,29,138,9
-14,33.3,fr FRA,Manchester United,5,28,Fabien Barthez,.711,85,GK,"2,541",0,30,31,19,5,0.99,30,97,10
-15,28.6,eng ENG,Arsenal,7,31,David Seaman,.713,90,GK,"2,520",0,28,38,17,4,1.11,28,108,8
-16,18.5,be BEL,Birmingham City,7,36,Nico Vaesen,.695,90,GK,"2,423",0,27,32,8,12,1.34,27,118,5
-17,36.0,fi FIN,Southampton,10,25,Antti Niemi,.798,90,GK,"2,246",0,25,30,9,6,1.00,25,124,9
-18,19.0,dk DEN,Sunderland,3,37,Thomas Sørensen,.606,86,GK,"1,813",0,21,26,2,16,1.84,21,94,4
-19,26.3,nl NED,Fulham,4,24,Edwin van der Sar,.755,89,GK,"1,683",0,19,31,6,9,1.28,19,98,5
-20,33.3,nir NIR,Fulham,2,23,Maik Taylor,.747,84,GK,"1,596",1,19,30,7,8,1.30,18,91,6
-21,30.8,wal WAL,Southampton,3,21,Paul Jones,.712,84,GK,"1,174",1,14,35,4,6,1.61,13,73,4
-22,16.7,at AUT,Sunderland,4,19,Jürgen Macho,.782,88,GK,"1,143",1,13,24,2,7,1.50,12,87,2
-23,40.0,eng ENG,Birmingham City,2,11,Ian Bennett,.766,90,GK,900,0,10,30,5,3,1.10,10,47,4
-24,37.5,nir NIR,Manchester United,3,6,Roy Carroll,.750,83,GK,834,2,10,24,6,0,0.65,8,24,3
-25,11.1,eng ENG,Manchester City,1,16,Carlo Nash,.652,90,GK,810,0,9,28,3,5,1.78,9,46,1
-26,25.0,eng ENG,Liverpool,4,8,Chris Kirkland,.765,90,GK,720,0,8,21,1,3,1.00,8,34,2
-27,14.3,eng ENG,Arsenal,2,9,Stuart Taylor,.700,85,GK,677,1,8,21,4,2,1.20,7,30,1
-28,40.0,nl NED,Aston Villa,2,7,Stefan Postma,.682,82,GK,494,1,6,25,2,1,1.28,5,22,2
-29,0.0,ee EST,Sunderland,0,8,Mart Poom,.619,90,GK,360,0,4,30,0,4,2.00,4,21,0
-30,33.3,se SWE,Arsenal,0,2,Rami Shaaban,.778,74,GK,223,0,3,27,2,0,0.81,3,9,1
-31,50.0,nl NED,Chelsea,1,2,Ed de Goey,.800,90,GK,180,0,2,35,0,1,1.00,2,10,1
-32,0.0,eng ENG,Everton,1,4,Steve Simonsen,.556,90,GK,180,0,2,23,0,1,2.00,2,9,0
-33,0.0,eng ENG,Everton,0,2,Paul Gerrard,.778,90,GK,180,0,2,29,1,1,1.00,2,9,0
-34,0.0,ie IRL,West Bromwich Albion,0,4,Joe Murphy,.667,73,GK,145,1,2,20,0,2,2.48,1,12,0
-35,0.0,ar ARG,Fulham,2,3,Martín Herrera,.625,71,GK,141,1,2,31,0,0,1.91,1,8,0
-36,0.0,no NOR,Sunderland,0,1,Thomas Myhre,.875,52,GK,104,1,2,28,0,0,0.87,1,8,0
-37,0.0,no NOR,Everton,0,4,Espen Baardsen,.500,90,GK,90,0,1,24,0,1,4.00,1,8,0
-38,0.0,wal WAL,Birmingham City,0,2,Andy Marriott,.667,90,GK,90,0,1,31,0,1,2.00,1,6,0
-39,0.0,ie IRL,Blackburn Rovers,0,1,Alan Kelly Jr.,.750,90,GK,90,0,1,33,0,1,1.00,1,4,0
-40,,eng ENG,Charlton Athletic,0,1,Ben Roberts,.857,58,GK,58,1,1,27,0,1,1.55,0,7,0
-41,,pt POR,Manchester United,0,0,Ricardo,1.000,45,GK,45,1,1,26,0,0,0.00,0,1,0
-42,,eng ENG,Birmingham City,0,0,Geoff Horsfield,,7,FW,7,1,1,28,0,0,0.00,0,0,0
+,games_starts,losses,minutes_per_game,save_perc,nationality,player,position,age,clean_sheets_perc,wins,goals_against_per90,games_subs,goals_against,shots_on_target_against,games,clean_sheets,minutes,draws,squad
+0,38,11,90,.732,ie IRL,Shay Given,GK,26,36.8,21,1.26,0,48,179,38,14,"3,420",6,Newcastle United
+1,38,14,90,.730,fi FIN,Jussi Jääskeläinen,GK,27,26.3,10,1.34,0,51,189,38,10,"3,420",14,Bolton Wanderers
+2,38,19,90,.697,eng ENG,Paul Robinson,GK,22,26.3,14,1.50,0,57,188,38,10,"3,420",5,Leeds United
+3,38,16,90,.705,us USA,Kasey Keller,GK,32,13.2,14,1.63,0,62,210,38,5,"3,420",8,Tottenham Hotspur
+4,38,16,90,.702,eng ENG,David James,GK,31,23.7,10,1.55,0,59,198,38,9,"3,420",12,West Ham United
+5,38,15,90,.761,au AUS,Mark Schwarzer,GK,29,26.3,13,1.16,0,44,184,38,10,"3,420",10,Middlesbrough
+6,38,16,88,.699,ie IRL,Dean Kiely,GK,31,21.1,14,1.47,0,55,183,38,8,"3,362",7,Charlton Athletic
+7,37,9,90,.793,us USA,Brad Friedel,GK,31,40.5,16,1.14,0,42,203,37,15,"3,330",12,Blackburn Rovers
+8,37,22,89,.689,eng ENG,Russell Hoult,GK,29,16.2,6,1.68,0,61,196,37,6,"3,275",8,West Bromwich Albion
+9,36,8,90,.753,it ITA,Carlo Cudicini,GK,28,33.3,19,1.00,0,36,146,36,12,"3,240",9,Chelsea
+10,33,10,90,.735,eng ENG,Richard Wright,GK,24,33.3,16,1.18,0,39,147,33,11,"2,970",7,Everton
+11,33,16,89,.740,fi FIN,Peter Enckelman,GK,25,21.2,10,1.23,0,40,154,33,7,"2,926",7,Aston Villa
+12,30,7,90,.705,pl POL,Jerzy Dudek,GK,29,40.0,17,1.10,0,33,112,30,12,"2,700",6,Liverpool
+13,29,12,90,.725,dk DEN,Peter Schmeichel,GK,38,31.0,12,1.31,0,38,138,29,9,"2,610",5,Manchester City
+14,30,5,85,.711,fr FRA,Fabien Barthez,GK,31,33.3,19,0.99,0,28,97,30,10,"2,541",5,Manchester United
+15,28,4,90,.713,eng ENG,David Seaman,GK,38,28.6,17,1.11,0,31,108,28,8,"2,520",7,Arsenal
+16,27,12,90,.695,be BEL,Nico Vaesen,GK,32,18.5,8,1.34,0,36,118,27,5,"2,423",7,Birmingham City
+17,25,6,90,.798,fi FIN,Antti Niemi,GK,30,36.0,9,1.00,0,25,124,25,9,"2,246",10,Southampton
+18,21,16,86,.606,dk DEN,Thomas Sørensen,GK,26,19.0,2,1.84,0,37,94,21,4,"1,813",3,Sunderland
+19,19,9,89,.755,nl NED,Edwin van der Sar,GK,31,26.3,6,1.28,0,24,98,19,5,"1,683",4,Fulham
+20,18,8,84,.747,nir NIR,Maik Taylor,GK,30,33.3,7,1.30,1,23,91,19,6,"1,596",2,Fulham
+21,13,6,84,.712,wal WAL,Paul Jones,GK,35,30.8,4,1.61,1,21,73,14,4,"1,174",3,Southampton
+22,12,7,88,.782,at AUT,Jürgen Macho,GK,24,16.7,2,1.50,1,19,87,13,2,"1,143",4,Sunderland
+23,10,3,90,.766,eng ENG,Ian Bennett,GK,30,40.0,5,1.10,0,11,47,10,4,900,2,Birmingham City
+24,8,0,83,.750,nir NIR,Roy Carroll,GK,24,37.5,6,0.65,2,6,24,10,3,834,3,Manchester United
+25,9,5,90,.652,eng ENG,Carlo Nash,GK,28,11.1,3,1.78,0,16,46,9,1,810,1,Manchester City
+26,8,3,90,.765,eng ENG,Chris Kirkland,GK,21,25.0,1,1.00,0,8,34,8,2,720,4,Liverpool
+27,7,2,85,.700,eng ENG,Stuart Taylor,GK,21,14.3,4,1.20,1,9,30,8,1,677,2,Arsenal
+28,5,1,82,.682,nl NED,Stefan Postma,GK,25,40.0,2,1.28,1,7,22,6,2,494,2,Aston Villa
+29,4,4,90,.619,ee EST,Mart Poom,GK,30,0.0,0,2.00,0,8,21,4,0,360,0,Sunderland
+30,3,0,74,.778,se SWE,Rami Shaaban,GK,27,33.3,2,0.81,0,2,9,3,1,223,0,Arsenal
+31,2,1,90,.800,nl NED,Ed de Goey,GK,35,50.0,0,1.00,0,2,10,2,1,180,1,Chelsea
+32,2,1,90,.556,eng ENG,Steve Simonsen,GK,23,0.0,0,2.00,0,4,9,2,0,180,1,Everton
+33,2,1,90,.778,eng ENG,Paul Gerrard,GK,29,0.0,1,1.00,0,2,9,2,0,180,0,Everton
+34,1,2,73,.667,ie IRL,Joe Murphy,GK,20,0.0,0,2.48,1,4,12,2,0,145,0,West Bromwich Albion
+35,1,0,71,.625,ar ARG,Martín Herrera,GK,31,0.0,0,1.91,1,3,8,2,0,141,2,Fulham
+36,1,0,52,.875,no NOR,Thomas Myhre,GK,28,0.0,0,0.87,1,1,8,2,0,104,0,Sunderland
+37,1,1,90,.500,no NOR,Espen Baardsen,GK,24,0.0,0,4.00,0,4,8,1,0,90,0,Everton
+38,1,1,90,.667,wal WAL,Andy Marriott,GK,31,0.0,0,2.00,0,2,6,1,0,90,0,Birmingham City
+39,1,1,90,.750,ie IRL,Alan Kelly Jr.,GK,33,0.0,0,1.00,0,1,4,1,0,90,0,Blackburn Rovers
+40,0,1,58,.857,eng ENG,Ben Roberts,GK,27,,0,1.55,1,1,7,1,0,58,0,Charlton Athletic
+41,0,0,45,1.000,pt POR,Ricardo,GK,26,,0,0.00,1,0,1,1,0,45,0,Manchester United
+42,0,0,7,,eng ENG,Geoff Horsfield,FW,28,,0,0.00,1,0,0,1,0,7,0,Birmingham City
